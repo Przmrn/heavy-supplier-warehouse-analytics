@@ -4,7 +4,7 @@
 Ammar Naufal
 
 ## Sprint Goal
-To be agreed during the planning meeting.
+Prepare the dataset for analysis by checking data quality, cleaning and integrating the relevant tables, and validating the results.
 
 ## Activities
 | Task | Owner | Status |
@@ -25,7 +25,7 @@ To be agreed during the planning meeting.
 ## Step B Tasks
 | Task | Owner | Status |
 |------|-------|--------|
-|  |  |  |
+In Progress
 
 ## Meeting Notes
 Everyone attended the meeting.
@@ -41,6 +41,7 @@ And everyone agreed on the tasks they've been assigned.
 - Added repository navigation and a complete Section A file index. This organization work does not independently validate the analyses or confirm portal submission.
 
 ## Blockers
+None  
 
 ## Next Steps
 Continue to the next Steps Tasks.
