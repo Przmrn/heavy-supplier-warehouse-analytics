@@ -219,4 +219,6 @@ __marimo__/
 
 # files
 cadetx_instructions.md
-codex.txt
+agent_session.txt
+AGENTS.md
+.opencode
