@@ -218,7 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 # files
-cadetx_instructions.md
 agent_session.txt
 AGENTS.md
 .opencode
+section_b
