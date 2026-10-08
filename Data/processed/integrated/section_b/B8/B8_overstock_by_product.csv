@@ -1,0 +1,31 @@
+product_id,product_name,category,ABC_class,movement_speed,branches_overstocked,total_overstock_units,total_overstock_value,avg_pct_above_max
+P015,Engine Block EB-600,Engine,A,Slow Moving,6,630751,60236720500,42451.38333333333
+P014,Transmission Assembly TA-800,Transmission,A,Slow Moving,6,659745,45192532500,41134.25
+P021,Boom Cylinder BC-400,Hydraulic,A,Fast Moving,6,628452,22372891200,31828.583333333332
+P004,Track Chain TC-45,Undercarriage,A,Medium Moving,6,637031,20703507500,37210.65
+P019,Swing Motor SWM-350,Hydraulic,A,Medium Moving,6,620399,19356448800,41047.05
+P010,Turbocharger TB-900,Engine,A,Fast Moving,6,659724,19066023600,44589.18333333333
+P011,Hydraulic Cylinder HC-200,Hydraulic,A,Fast Moving,6,648413,13940879500,40634.8
+P001,Hydraulic Pump HP-300,Hydraulic,A,Medium Moving,6,641637,12159021150,28030.850000000002
+P030,Fuel Pump FP-350,Engine,A,Fast Moving,6,630561,10341200400,37458.03333333333
+P022,Control Valve CV-75,Hydraulic,B,Medium Moving,6,645326,8260172800,35941.083333333336
+P009,Starter Motor SM-700,Electrical,B,Slow Moving,6,629978,7213248100,34426.4
+P023,Idler Wheel IW-55,Undercarriage,B,Slow Moving,6,659937,6071420400,47199.88333333333
+P006,Alternator ALT-500,Electrical,B,Fast Moving,6,645439,5583047350,42436.45
+P018,Wheel Rim WR-24,Undercarriage,B,Slow Moving,6,648046,5313977200,28728.566666666666
+P016,Radiator RD-250,Cooling,B,Fast Moving,6,632228,4931378400,41710.433333333334
+P024,Track Roller TR-60,Undercarriage,B,Slow Moving,6,654201,4841087400,36789.73333333333
+P005,Fuel Injector FI-220,Engine,C,Slow Moving,6,656712,4170121200,34385.549999999996
+P025,Cabin Glass CG-20,Cabin,C,Medium Moving,6,649647,3638023200,38064.0
+P029,Pressure Sensor PS-90,Sensors,C,Fast Moving,6,633516,1742169000,45941.1
+P012,Brake Pad BP-40,Brakes,C,Fast Moving,6,661271,1190287800,40369.683333333334
+P028,Light Assembly LA-18,Electrical,C,Medium Moving,6,622169,902145050,34175.25
+P007,Hydraulic Hose HH-60,Hydraulic,C,Fast Moving,6,654294,641208120,27120.733333333334
+P013,Seal Kit SK-15,Seals,C,Slow Moving,6,633096,601441200,49009.86666666667
+P003,Air Filter AF-120,Filters,C,Fast Moving,6,647918,531292760,32071.7
+P020,Pivot Pin PP-12,Pins & Bushes,C,Medium Moving,6,623634,467725500,45992.36666666667
+P002,Engine Oil Filter OF-90,Filters,C,Medium Moving,6,653033,293864850,39084.36666666667
+P008,Bucket Tooth BT-10,Attachments,C,Medium Moving,6,622339,211595260,32230.71666666667
+P017,Fan Belt FB-30,Belts,C,Medium Moving,6,656898,210207360,34969.4
+P027,O-Ring Set OR-50,Seals,C,Slow Moving,6,629399,163643740,45157.75
+P026,Grease Cartridge GC-5,Lubricants,C,Slow Moving,6,629556,113320080,41929.86666666667

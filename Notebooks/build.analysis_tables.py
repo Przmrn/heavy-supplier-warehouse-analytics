@@ -5,15 +5,15 @@ import pandas as pd
 
 # Resolve paths relative to this script, not the terminal location.
 ROOT = Path(__file__).resolve().parents[1]
-INPUT = ROOT / "Data" / "processed" / "cleaned"
-OUTPUT = ROOT / "Data" / "processed" / "integrated"
+INPUT = ROOT / "Data" / "processed" / "cleaned" / "section_a" / "A2"
+OUTPUT = ROOT / "Data" / "processed" / "integrated" / "section_a" / "A3"
 
 
 def load_table(
     name: str,
     date_columns: tuple[str, ...] | list[str] = (),
 ) -> pd.DataFrame:
-    table = pd.read_csv(INPUT / f"{name}.csv")
+    table = pd.read_csv(INPUT / f"A2_{name}.csv")
 
 
     for column in date_columns:
@@ -110,8 +110,8 @@ def check_order_lines(table, order_key, expected_rows):
 def main():
     # Avoid accidentally replacing existing team outputs.
     targets = [
-        OUTPUT / "sales_analysis.csv",
-        OUTPUT / "purchase_analysis.csv",
+        OUTPUT / "A3_sales_analysis.csv",
+        OUTPUT / "A3_purchase_analysis.csv",
     ]
     for target in targets:
         if target.exists():
