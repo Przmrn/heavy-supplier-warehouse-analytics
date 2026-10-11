@@ -5,9 +5,9 @@ CadetX team project analysing supplier performance, inventory health, and wareho
 | Member | Technical role |
 |---|---|
 | Ammar Naufal | Data Analyst | Week 1 Scrum Master |
-| Nadir | Data Analyst | Week 2 Scrum Master |
-| Golla | Data Analyst |
-| Festus | BI Analyst |
+| Nadir Abdulhadi | Data Analyst | Week 2 Scrum Master |
+| Golla Bhumika | Data Analyst |
+| Festus Ejideaku | BI Analyst |
 
 ## Project files
 
