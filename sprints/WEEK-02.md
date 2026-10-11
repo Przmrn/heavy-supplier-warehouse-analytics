@@ -9,7 +9,7 @@ Finish Section B product and inventory analysis and start Section C warehouse op
 ## Activities
 | Task | Owner | Status |
 |------|-------|--------|
-| Prepare the Week 2 sprint notes | Nadir | In Progress |
+| Prepare the Week 2 sprint notes | Nadir | Done |
 
 ## Step A Tasks
 | Code | Task | Owner | Status | Report or reference |
