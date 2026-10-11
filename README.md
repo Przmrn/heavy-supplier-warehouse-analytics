@@ -78,4 +78,4 @@ methods with no generation scripts, unrecorded input versions
 relative to the adjustment-sign repair, negative ageing-day values
 needing a method fix, and the Section A data-quality issues above.
 Do not base procurement cuts on the overstock figures until the
-threshold and balance questions are resolved.
+threshold and balance questions are resolved
