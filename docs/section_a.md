@@ -8,9 +8,9 @@ Task index organized using A1-A6 labels on 5 October 2026, matching the Section 
 |---|---|---|---|
 | A1 | Data Profiling & Structure Analysis | [A1_Data_Profiling_Report.xlsx](../Reports/profiling/A1_Data_Profiling_Report.xlsx) | Table inventory, relationships, quality notes, and field dictionary in the workbook |
 | A2 | Data Cleaning & Quality Improvement | [A2_Data_Cleaning_Log.xlsx](../Reports/data_quality/A2_Data_Cleaning_Log.xlsx) | [12 cleaned tables](../Data/processed/cleaned/section_a/A2/) |
-| A3 | Data Integration & Dataset Merging | [A3_Integrated_Tables_Guide.xlsx](A3_Integrated_Tables_Guide.xlsx) | [Integration outputs](../Data/processed/integrated/section_a/); [reconstruction script](../notebooks/build.analysis_tables.py) |
+| A3 | Data Integration & Dataset Merging | [A3_Integrated_Tables_Guide.xlsx](A3_Integrated_Tables_Guide.xlsx) | [Integration outputs](../Data/processed/integrated/section_a/); [reconstruction script](../Notebooks/build.analysis_tables.py) |
 | A4 | Feature Engineering for Analytics | [A4_Feature_Dictionary.xlsx](A4_Feature_Dictionary.xlsx) | Sales, purchase, inventory, movement, and customer features in the integration outputs |
-| A5 | Data Validation & Consistency Checks | [A5_Section_A_Completion_Summary.xlsx](../Reports/validation/A5_Section_A_Completion_Summary.xlsx) | Workbook sheet `A5_Validation_Log`; [adjustment repair script](../notebooks/repair_adjusments.py); [change log](../Data/interim/section_a/A5/adjustment_review/A5_adjustment_changes.csv) |
+| A5 | Data Validation & Consistency Checks | [A5_Section_A_Completion_Summary.xlsx](../Reports/validation/A5_Section_A_Completion_Summary.xlsx) | Workbook sheet `A5_Validation_Log`; [adjustment repair script](../Notebooks/repair_adjusments.py); [change log](../Data/interim/section_a/A5/adjustment_review/A5_adjustment_changes.csv) |
 | A6 | Data Dictionary & Documentation | [A6_Data_Dictionary_Index.md](A6_Data_Dictionary_Index.md) | Locates the existing source-field dictionary, relationships, integration definitions, and feature formulas |
 
 ## CSV outputs
@@ -56,13 +56,13 @@ The order-header tables are supporting inputs, not substitutes for the line-leve
 
 | File | Purpose |
 |---|---|
-| [repair_adjusments.py](../notebooks/repair_adjusments.py) | Validates the source sequence and creates a candidate adjustment-sign repair; filename retained as supplied |
+| [repair_adjusments.py](../Notebooks/repair_adjusments.py) | Validates the source sequence and creates a candidate adjustment-sign repair; filename retained as supplied |
 | [A5_adjustment_changes.csv](../Data/interim/section_a/A5/adjustment_review/A5_adjustment_changes.csv) | Record of changes to signed quantities |
 | [A5_stock_movements_enriched_candidate.csv](../Data/interim/section_a/A5/adjustment_review/A5_stock_movements_enriched_candidate.csv) | Review candidate; downstream analyses should use the declared integrated output above |
 
 The review folder also retains [A5_stock_movements_enriched.csv](../Data/interim/section_a/A5/adjustment_review/A5_stock_movements_enriched.csv), a separate review copy. Use the A3 integrated output for downstream analyses.
 
-The reconstruction script [build.analysis_tables.py](../notebooks/build.analysis_tables.py) covers selected A3-A4 sales and purchase outputs; it is not a complete reproduction of every original Section A operation. Both scripts refuse to overwrite their existing output targets. The filename update preserves calculations and overwrite guards.
+The reconstruction script [build.analysis_tables.py](../Notebooks/build.analysis_tables.py) covers selected A3-A4 sales and purchase outputs; it is not a complete reproduction of every original Section A operation. Both scripts refuse to overwrite their existing output targets. The filename update preserves calculations and overwrite guards.
 
 ## History and review status
 
@@ -83,4 +83,4 @@ The original dictionaries describe 52 sales columns and 51 purchase columns; the
 
 This update organizes evidence and adds task labels; it does not certify analytical completeness. Existing team owners and statuses are recorded in the [Week 1 sprint notes](../sprints/WEEK-01.md), together with unresolved data-quality issues. Original source downloads belong in `Data/raw/` when available; these prepared tables should not be relabeled as raw data.
 
-Related: [Section B file index](section_b.md).
+Related: [Section B file index](section_b.md), [Section C file index](section_c.md), [Section D file index](section_d.md).

@@ -6,6 +6,8 @@ Use these indexes to locate task reports, CSV outputs, scripts, and supporting e
 |---|---|---|
 | Data Foundation & Preparation | A1-A6 | [Section A](section_a.md) |
 | Product & Inventory Analytics | B1-B9 | [Section B](section_b.md) |
+| Warehouse Operations & Efficiency | C1-C7 | [Section C](section_c.md) |
+| Supplier & Procurement Analytics | D1-D6 | [Section D](section_d.md) |
 
 See the [Data directory guide](../Data/README.md) for the processing-stage, section, and task folder structure.
 

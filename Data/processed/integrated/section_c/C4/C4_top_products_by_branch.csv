@@ -1,0 +1,19 @@
+branch_id,branch_name,product_id,product_name,ABC_class,stock_value_at_cost,overstock_value_at_cost,rank_in_branch
+AHM001,Ahmedabad West Hub,P015,Engine Block EB-600,A,10040392500,10027882000,1
+AHM001,Ahmedabad West Hub,P014,Transmission Assembly TA-800,A,7216132500,7204419000,2
+AHM001,Ahmedabad West Hub,P021,Boom Cylinder BC-400,A,3850780800,3831058400,3
+CHN001,Chennai South Hub,P015,Engine Block EB-600,A,10872770500,10837435500,1
+CHN001,Chennai South Hub,P014,Transmission Assembly TA-800,A,7829687000,7808931500,2
+CHN001,Chennai South Hub,P021,Boom Cylinder BC-400,A,3590865200,3579508800,3
+DEL001,Delhi Central,P015,Engine Block EB-600,A,9642348500,9605390000,1
+DEL001,Delhi Central,P014,Transmission Assembly TA-800,A,7625488500,7599184500,2
+DEL001,Delhi Central,P021,Boom Cylinder BC-400,A,4126111200,4116962000,3
+HYD001,Hyderabad Logistics,P015,Engine Block EB-600,A,10508342500,10486759500,1
+HYD001,Hyderabad Logistics,P014,Transmission Assembly TA-800,A,7625077500,7599253000,2
+HYD001,Hyderabad Logistics,P004,Track Chain TC-45,A,3573147500,3561350000,3
+KOL001,Kolkata East Depot,P015,Engine Block EB-600,A,9220238500,9171724500,1
+KOL001,Kolkata East Depot,P014,Transmission Assembly TA-800,A,7260589000,7225037500,2
+KOL001,Kolkata East Depot,P021,Boom Cylinder BC-400,A,3589512400,3572246400,3
+PUN001,Pune Distribution,P015,Engine Block EB-600,A,10127584000,10107529000,1
+PUN001,Pune Distribution,P014,Transmission Assembly TA-800,A,7766941000,7755707000,2
+PUN001,Pune Distribution,P021,Boom Cylinder BC-400,A,3751706000,3741488800,3

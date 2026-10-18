@@ -55,7 +55,7 @@ And everyone agreed on the tasks they've been assigned.
   1. GitHub repository setup
   2. Step A tasks: [file index and supporting reports](../docs/section_a.md).
   3. Tasks A
-  4. Adopted the verified stock-adjustment repair on [actual date].
+  4. Adopted the verified stock-adjustment repair; the adoption date was not recorded.
     Corrected 1,227 signed quantities and preserved all other fields.
     The adopted file's hash matches the reviewed candidate.
     Correction evidence: Data/interim/section_a/A5/adjustment_review/A5_adjustment_changes.csv.

@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_type,received_lines,on_time_lines,late_lines,early_lines,avg_actual_lead_time,median_actual_lead_time,avg_delay_days,avg_abs_delay,avg_lead_vs_stated,stated_lead_time,on_time_pct,late_pct,early_pct,reliability_band,rank_by_on_time,reliability_score,lead_time_days
+SUP0006,Qingdao Distributor Supplies,Distributor,17908,15330,2578,823,10.5,10.0,0.48,0.67,0.48,10,85.6,14.4,4.6,Good (85–90%),1,3,10
+SUP0003,Shanghai Distributor Supplies,Distributor,17450,14905,2545,882,16.5,16.0,0.53,0.72,0.53,16,85.4,14.6,5.1,Good (85–90%),2,4,16
+SUP0005,Tianjin OEM Supplies,OEM,17987,15348,2639,803,28.5,28.0,0.48,0.65,0.48,28,85.3,14.7,4.5,Good (85–90%),3,3,28
+SUP0001,Shenzhen OEM Supplies,OEM,17490,14913,2577,785,19.5,19.0,0.48,0.67,0.48,19,85.3,14.7,4.5,Good (85–90%),4,5,19
+SUP0002,Guangzhou Local Vendor Supplies,Local Vendor,17227,14648,2579,724,10.5,10.0,0.51,0.69,0.51,10,85.0,15.0,4.2,Good (85–90%),5,5,10
+SUP0004,Ningbo Distributor Supplies,Distributor,17057,14402,2655,807,18.5,18.0,0.51,0.7,0.51,18,84.4,15.6,4.7,Acceptable (80–85%),6,3,18
+SUP0007,Suzhou Local Vendor Supplies,Local Vendor,17579,14825,2754,713,12.5,12.0,0.55,0.72,0.55,12,84.3,15.7,4.1,Acceptable (80–85%),7,5,12
+SUP0008,Hangzhou OEM Supplies,OEM,17379,14624,2755,722,26.5,26.0,0.54,0.7,0.54,26,84.1,15.9,4.2,Acceptable (80–85%),8,4,26

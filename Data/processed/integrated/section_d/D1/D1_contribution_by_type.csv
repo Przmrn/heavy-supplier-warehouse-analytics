@@ -1,0 +1,4 @@
+supplier_type,suppliers,total_spend,total_qty,po_lines,spend_share_pct
+OEM,3,118941285295.54,8455651,52856,38.1
+Distributor,3,116324871659.56,8365988,52415,37.3
+Local Vendor,2,76761272152.6,5565484,34806,24.6

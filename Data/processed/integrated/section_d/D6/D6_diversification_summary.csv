@@ -1,0 +1,2 @@
+n_suppliers,hhi,hhi_label,top1_share_pct,top3_share_pct,products_single_sourced,products_multi_sourced,avg_suppliers_per_product,notes
+8,1250.5,Diversified (HHI < 1500),12.9,38.12,0,30,8.0,Spend is well diversified across suppliers (HHI < 1500). | All products have at least 2 suppliers — good product-level diversification. | Supplier count (8) is healthy for this catalogue size.
