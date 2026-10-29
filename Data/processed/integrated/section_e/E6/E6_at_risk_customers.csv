@@ -1,0 +1,111 @@
+customer_id,customer_type,region,industry_segment,recency_days,total_orders,total_revenue,orders_per_year,tenure_years,RFM_segment,R_score,F_score,M_score,retention_status,is_churned,is_at_risk_of_churn,churn_flag
+C0110,Dealer,Central,Logistics,194,42,71230450,23.33,1.8,Loyal / High Value,1,5,5,High Risk,False,True,At Risk of Churn
+C0254,Dealer,West,Mining,98,48,70227620,7.62,6.3,Loyal / High Value,2,5,5,Soft Risk,False,True,At Risk of Churn
+C0221,Dealer,North,Logistics,118,44,64336800,8.8,5.0,Loyal / High Value,1,5,5,Soft Risk,False,True,At Risk of Churn
+C0103,Dealer,South,Infrastructure,125,40,59164240,5.56,7.2,Loyal / High Value,1,4,5,Soft Risk,False,True,At Risk of Churn
+C0154,Fleet Owner,North,Logistics,133,45,58187170,7.26,6.2,Loyal / High Value,1,5,5,Soft Risk,False,True,At Risk of Churn
+C0476,Fleet Owner,North,Infrastructure,94,34,57777740,10.3,3.3,Loyal / High Value,2,3,5,Soft Risk,False,True,At Risk of Churn
+C0337,Corporate,North,Manufacturing,129,34,57585510,3.82,8.9,Potential / Needs Attention,1,3,5,Soft Risk,False,True,At Risk of Churn
+C0084,Corporate,West,Logistics,101,39,57484480,12.19,3.2,Loyal / High Value,1,4,5,Soft Risk,False,True,At Risk of Churn
+C0297,Fleet Owner,South,Rental,184,34,57279920,6.42,5.3,Potential / Needs Attention,1,3,5,High Risk,False,True,At Risk of Churn
+C0384,Retail,South,Construction,114,39,56692240,7.09,5.5,Loyal / High Value,1,4,5,Soft Risk,False,True,At Risk of Churn
+C0002,Fleet Owner,South,Manufacturing,116,51,56261100,17.0,3.0,Loyal / High Value,1,5,5,Soft Risk,False,True,At Risk of Churn
+C0489,Fleet Owner,South,Rental,137,47,55400350,8.1,5.8,Loyal / High Value,1,5,5,Soft Risk,False,True,At Risk of Churn
+C0025,Corporate,West,Infrastructure,136,38,55220350,34.55,1.1,Loyal / High Value,1,4,5,Soft Risk,False,True,At Risk of Churn
+C0373,Corporate,South,Manufacturing,121,38,54767460,76.0,0.5,Loyal / High Value,1,4,5,Soft Risk,False,True,At Risk of Churn
+C0421,Retail,South,Construction,194,38,54492210,3.88,9.8,Loyal / High Value,1,4,5,High Risk,False,True,At Risk of Churn
+C0311,Government,North,Infrastructure,106,41,54370990,5.69,7.2,Loyal / High Value,1,5,5,Soft Risk,False,True,At Risk of Churn
+C0225,Fleet Owner,North,Logistics,168,48,54324600,7.87,6.1,Loyal / High Value,1,5,5,Soft Risk,False,True,At Risk of Churn
+C0192,Fleet Owner,East,Logistics,125,40,54295880,30.77,1.3,Potential / Needs Attention,1,4,4,Soft Risk,False,True,At Risk of Churn
+C0041,Government,South,Rental,204,38,53358620,7.04,5.4,Potential / Needs Attention,1,4,4,High Risk,False,True,At Risk of Churn
+C0464,Corporate,North,Infrastructure,110,38,52908510,27.14,1.4,Potential / Needs Attention,1,4,4,Soft Risk,False,True,At Risk of Churn
+C0385,Corporate,West,Manufacturing,100,37,52865670,61.67,0.6,Potential / Needs Attention,1,4,4,Soft Risk,False,True,At Risk of Churn
+C0156,Government,South,Manufacturing,106,33,52631480,11.38,2.9,Potential / Needs Attention,1,2,4,Soft Risk,False,True,At Risk of Churn
+C0176,Dealer,South,Logistics,147,42,52504460,6.46,6.5,Loyal / High Value,1,5,4,Soft Risk,False,True,At Risk of Churn
+C0293,Dealer,West,Logistics,98,36,52424230,10.0,3.6,Potential / Needs Attention,2,3,4,Soft Risk,False,True,At Risk of Churn
+C0428,Retail,North,Construction,128,43,52052170,14.33,3.0,Loyal / High Value,1,5,4,Soft Risk,False,True,At Risk of Churn
+C0213,Fleet Owner,West,Rental,123,30,51921070,6.25,4.8,At Risk / Hibernating,1,1,4,Soft Risk,False,True,At Risk of Churn
+C0006,Government,West,Construction,121,40,51412280,12.5,3.2,Potential / Needs Attention,1,4,4,Soft Risk,False,True,At Risk of Churn
+C0491,Dealer,South,Infrastructure,181,27,51140830,2.97,9.1,At Risk / Hibernating,1,1,4,High Risk,False,True,At Risk of Churn
+C0498,Fleet Owner,East,Construction,135,28,50845460,3.54,7.9,At Risk / Hibernating,1,1,4,Soft Risk,False,True,At Risk of Churn
+C0116,Dealer,North,Construction,157,35,50227070,8.75,4.0,Potential / Needs Attention,1,3,4,Soft Risk,False,True,At Risk of Churn
+C0198,Government,West,Mining,153,36,49819290,6.21,5.8,Potential / Needs Attention,1,3,4,Soft Risk,False,True,At Risk of Churn
+C0249,Corporate,West,Construction,120,35,49712310,4.07,8.6,Potential / Needs Attention,1,3,4,Soft Risk,False,True,At Risk of Churn
+C0135,Retail,South,Rental,127,35,49182970,4.86,7.2,Potential / Needs Attention,1,3,4,Soft Risk,False,True,At Risk of Churn
+C0438,Corporate,East,Rental,122,39,48432400,11.82,3.3,Potential / Needs Attention,1,4,4,Soft Risk,False,True,At Risk of Churn
+C0419,Fleet Owner,West,Logistics,93,31,48221790,6.33,4.9,Potential / Needs Attention,2,2,4,Soft Risk,False,True,At Risk of Churn
+C0228,Government,South,Construction,113,34,47933580,3.62,9.4,Potential / Needs Attention,1,3,4,Soft Risk,False,True,At Risk of Churn
+C0024,Dealer,South,Rental,106,44,47587690,146.67,0.3,Loyal / High Value,1,5,4,Soft Risk,False,True,At Risk of Churn
+C0251,Dealer,North,Mining,179,36,47504560,4.19,8.6,Potential / Needs Attention,1,3,3,Soft Risk,False,True,At Risk of Churn
+C0235,Fleet Owner,East,Mining,113,38,47454230,5.43,7.0,Potential / Needs Attention,1,4,3,Soft Risk,False,True,At Risk of Churn
+C0085,Retail,South,Mining,103,37,47385290,16.82,2.2,Potential / Needs Attention,1,3,3,Soft Risk,False,True,At Risk of Churn
+C0365,Government,East,Manufacturing,108,39,47362240,6.96,5.6,Potential / Needs Attention,1,4,3,Soft Risk,False,True,At Risk of Churn
+C0021,Corporate,South,Mining,92,45,47093630,20.45,2.2,Loyal / High Value,2,5,3,Soft Risk,False,True,At Risk of Churn
+C0358,Government,West,Infrastructure,92,36,46632120,6.55,5.5,Potential / Needs Attention,2,3,3,Soft Risk,False,True,At Risk of Churn
+C0485,Fleet Owner,West,Rental,92,28,46389160,70.0,0.4,At Risk / Hibernating,2,1,3,Soft Risk,False,True,At Risk of Churn
+C0131,Corporate,South,Rental,201,32,46237660,8.0,4.0,At Risk / Hibernating,1,2,3,High Risk,False,True,At Risk of Churn
+C0158,Corporate,East,Infrastructure,97,36,46231390,7.2,5.0,Potential / Needs Attention,2,3,3,Soft Risk,False,True,At Risk of Churn
+C0256,Corporate,North East,Infrastructure,104,30,46110780,23.08,1.3,At Risk / Hibernating,1,1,3,Soft Risk,False,True,At Risk of Churn
+C0314,Retail,East,Logistics,97,36,46037410,6.0,6.0,Potential / Needs Attention,2,3,3,Soft Risk,False,True,At Risk of Churn
+C0030,Corporate,South,Construction,121,32,45703710,11.43,2.8,At Risk / Hibernating,1,2,3,Soft Risk,False,True,At Risk of Churn
+C0424,Retail,West,Construction,100,35,45692330,5.22,6.7,Potential / Needs Attention,1,3,3,Soft Risk,False,True,At Risk of Churn
+C0029,Dealer,South,Construction,185,38,45653420,20.0,1.9,Potential / Needs Attention,1,4,3,High Risk,False,True,At Risk of Churn
+C0047,Corporate,West,Rental,129,30,45416100,5.36,5.6,At Risk / Hibernating,1,1,3,Soft Risk,False,True,At Risk of Churn
+C0088,Corporate,West,Infrastructure,148,36,44991010,36.0,1.0,Potential / Needs Attention,1,3,3,Soft Risk,False,True,At Risk of Churn
+C0433,Dealer,North,Infrastructure,219,31,44764880,6.33,4.9,At Risk / Hibernating,1,2,3,High Risk,False,True,At Risk of Churn
+C0260,Dealer,South,Logistics,118,32,43590270,5.25,6.1,At Risk / Hibernating,1,2,3,Soft Risk,False,True,At Risk of Churn
+C0463,Dealer,West,Mining,132,35,43452000,26.92,1.3,Potential / Needs Attention,1,3,3,Soft Risk,False,True,At Risk of Churn
+C0450,Fleet Owner,East,Construction,111,38,43401530,4.22,9.0,Potential / Needs Attention,1,4,3,Soft Risk,False,True,At Risk of Churn
+C0274,Dealer,North,Mining,188,39,42946740,10.83,3.6,Potential / Needs Attention,1,4,3,High Risk,False,True,At Risk of Churn
+C0321,Retail,South,Logistics,187,38,42809230,4.18,9.1,Potential / Needs Attention,1,4,2,High Risk,False,True,At Risk of Churn
+C0330,Retail,East,Infrastructure,144,38,42673670,7.6,5.0,Potential / Needs Attention,1,4,2,Soft Risk,False,True,At Risk of Churn
+C0372,Government,South,Logistics,175,36,41513200,10.0,3.6,At Risk / Hibernating,1,3,2,Soft Risk,False,True,At Risk of Churn
+C0361,Government,South,Logistics,97,32,41202210,5.61,5.7,At Risk / Hibernating,2,2,2,Soft Risk,False,True,At Risk of Churn
+C0324,Corporate,South,Mining,130,35,41098360,6.86,5.1,At Risk / Hibernating,1,3,2,Soft Risk,False,True,At Risk of Churn
+C0417,Fleet Owner,East,Mining,112,32,40806780,6.04,5.3,At Risk / Hibernating,1,2,2,Soft Risk,False,True,At Risk of Churn
+C0133,Government,South,Mining,269,29,40181100,5.18,5.6,Lost / Low Value,1,1,2,High Risk,False,True,At Risk of Churn
+C0266,Fleet Owner,South,Rental,99,35,39797800,7.14,4.9,At Risk / Hibernating,1,3,2,Soft Risk,False,True,At Risk of Churn
+C0405,Corporate,West,Infrastructure,190,32,39790100,16.0,2.0,At Risk / Hibernating,1,2,2,High Risk,False,True,At Risk of Churn
+C0031,Government,East,Mining,141,34,39680260,9.19,3.7,At Risk / Hibernating,1,2,2,Soft Risk,False,True,At Risk of Churn
+C0202,Government,North,Logistics,102,28,39546540,5.96,4.7,Lost / Low Value,1,1,2,Soft Risk,False,True,At Risk of Churn
+C0451,Government,East,Manufacturing,179,37,38981780,11.94,3.1,Potential / Needs Attention,1,4,2,Soft Risk,False,True,At Risk of Churn
+C0048,Dealer,South,Mining,111,31,38811940,11.07,2.8,Lost / Low Value,1,1,2,Soft Risk,False,True,At Risk of Churn
+C0470,Government,South,Mining,96,36,38599240,4.19,8.6,Potential / Needs Attention,2,3,2,Soft Risk,False,True,At Risk of Churn
+C0132,Corporate,Central,Construction,92,37,38534330,16.09,2.3,Potential / Needs Attention,2,3,2,Soft Risk,False,True,At Risk of Churn
+C0127,Government,East,Construction,190,28,38456060,2.83,9.9,Lost / Low Value,1,1,2,High Risk,False,True,At Risk of Churn
+C0114,Retail,East,Mining,96,33,38178710,4.34,7.6,At Risk / Hibernating,2,2,2,Soft Risk,False,True,At Risk of Churn
+C0100,Government,North,Construction,113,38,38016250,3.84,9.9,Potential / Needs Attention,1,4,2,Soft Risk,False,True,At Risk of Churn
+C0008,Corporate,West,Logistics,169,34,37972100,3.58,9.5,At Risk / Hibernating,1,2,2,Soft Risk,False,True,At Risk of Churn
+C0313,Corporate,West,Mining,121,30,37841680,4.05,7.4,Lost / Low Value,1,1,2,Soft Risk,False,True,At Risk of Churn
+C0299,Retail,South,Logistics,124,34,37822560,3.7,9.2,At Risk / Hibernating,1,3,2,Soft Risk,False,True,At Risk of Churn
+C0344,Fleet Owner,West,Mining,198,28,37729300,3.18,8.8,Lost / Low Value,1,1,2,High Risk,False,True,At Risk of Churn
+C0265,Retail,West,Mining,96,29,37594220,15.26,1.9,At Risk / Hibernating,2,1,2,Soft Risk,False,True,At Risk of Churn
+C0043,Corporate,South,Construction,201,36,37467660,6.55,5.5,At Risk / Hibernating,1,3,2,High Risk,False,True,At Risk of Churn
+C0185,Dealer,West,Logistics,107,33,37319640,6.23,5.3,At Risk / Hibernating,1,2,2,Soft Risk,False,True,At Risk of Churn
+C0226,Dealer,West,Logistics,95,26,36902950,130.0,0.2,Lost / Low Value,2,1,1,Soft Risk,False,True,At Risk of Churn
+C0092,Fleet Owner,West,Logistics,155,36,36740510,15.0,2.4,At Risk / Hibernating,1,3,1,Soft Risk,False,True,At Risk of Churn
+C0163,Dealer,West,Logistics,149,38,36480350,7.31,5.2,At Risk / Hibernating,1,4,1,Soft Risk,False,True,At Risk of Churn
+C0094,Corporate,West,Logistics,103,31,36407440,9.12,3.4,Lost / Low Value,1,1,1,Soft Risk,False,True,At Risk of Churn
+C0281,Government,South,Logistics,190,26,36333020,23.64,1.1,Lost / Low Value,1,1,1,High Risk,False,True,At Risk of Churn
+C0431,Government,West,Logistics,180,28,35920190,8.24,3.4,Lost / Low Value,1,1,1,Soft Risk,False,True,At Risk of Churn
+C0316,Dealer,East,Manufacturing,101,33,35655050,110.0,0.3,Lost / Low Value,1,2,1,Soft Risk,False,True,At Risk of Churn
+C0212,Retail,North East,Infrastructure,131,31,35519950,310.0,0.1,Lost / Low Value,1,2,1,Soft Risk,False,True,At Risk of Churn
+C0053,Fleet Owner,North,Construction,105,27,35369930,22.5,1.2,Lost / Low Value,1,1,1,Soft Risk,False,True,At Risk of Churn
+C0351,Corporate,East,Rental,111,34,35183170,5.57,6.1,At Risk / Hibernating,1,3,1,Soft Risk,False,True,At Risk of Churn
+C0143,Corporate,South,Infrastructure,152,27,35058490,3.8,7.1,Lost / Low Value,1,1,1,Soft Risk,False,True,At Risk of Churn
+C0283,Retail,North,Logistics,119,31,34916310,7.95,3.9,Lost / Low Value,1,2,1,Soft Risk,False,True,At Risk of Churn
+C0277,Dealer,West,Logistics,109,36,34361720,4.68,7.7,At Risk / Hibernating,1,3,1,Soft Risk,False,True,At Risk of Churn
+C0402,Fleet Owner,South,Rental,173,35,34212640,5.15,6.8,At Risk / Hibernating,1,3,1,Soft Risk,False,True,At Risk of Churn
+C0179,Government,South,Infrastructure,164,32,34009700,3.86,8.3,Lost / Low Value,1,2,1,Soft Risk,False,True,At Risk of Churn
+C0412,Corporate,East,Infrastructure,218,32,33987820,5.93,5.4,Lost / Low Value,1,2,1,High Risk,False,True,At Risk of Churn
+C0137,Dealer,South,Infrastructure,205,21,33571570,2.31,9.1,Lost / Low Value,1,1,1,High Risk,False,True,At Risk of Churn
+C0078,Dealer,South,Rental,193,31,33430220,10.33,3.0,Lost / Low Value,1,1,1,High Risk,False,True,At Risk of Churn
+C0182,Dealer,East,Infrastructure,151,29,32105700,72.5,0.4,Lost / Low Value,1,1,1,Soft Risk,False,True,At Risk of Churn
+C0339,Fleet Owner,South,Logistics,138,24,31557880,2.96,8.1,Lost / Low Value,1,1,1,Soft Risk,False,True,At Risk of Churn
+C0144,Fleet Owner,West,Construction,131,25,31072090,11.36,2.2,Lost / Low Value,1,1,1,Soft Risk,False,True,At Risk of Churn
+C0336,Government,East,Rental,97,33,30736480,6.35,5.2,At Risk / Hibernating,2,2,1,Soft Risk,False,True,At Risk of Churn
+C0091,Retail,South,Construction,116,30,30689510,27.27,1.1,Lost / Low Value,1,1,1,Soft Risk,False,True,At Risk of Churn
+C0117,Government,North East,Mining,142,31,30628680,38.75,0.8,Lost / Low Value,1,1,1,Soft Risk,False,True,At Risk of Churn
+C0334,Corporate,South,Mining,130,33,29449120,6.6,5.0,Lost / Low Value,1,2,1,Soft Risk,False,True,At Risk of Churn
+C0061,Dealer,West,Construction,115,29,26564250,3.26,8.9,Lost / Low Value,1,1,1,Soft Risk,False,True,At Risk of Churn
+C0292,Corporate,Central,Rental,248,27,24356960,45.0,0.6,Lost / Low Value,1,1,1,High Risk,False,True,At Risk of Churn

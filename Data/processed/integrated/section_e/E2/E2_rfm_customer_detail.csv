@@ -1,0 +1,501 @@
+customer_id,customer_type,industry_segment,region,recency_days,total_orders,total_revenue,avg_order_value,orders_per_year,tenure_years,R_score,F_score,M_score,RFM_score,RFM_points,RFM_segment
+C0001,Retail,Construction,East,47,34,43201680,1270637.6470588236,48.57,0.7,3,2,3,323,8,Potential / Needs Attention
+C0002,Fleet Owner,Manufacturing,South,116,51,56261100,1103158.8235294118,17.0,3.0,1,5,5,155,11,Loyal / High Value
+C0003,Government,Logistics,West,63,38,35112260,924006.8421052631,4.81,7.9,2,4,1,241,7,Potential / Needs Attention
+C0004,Fleet Owner,Logistics,South,1,46,47754210,1038135.0,6.57,7.0,5,5,4,554,14,Champions
+C0005,Dealer,Construction,West,89,45,58882280,1308495.111111111,32.14,1.4,2,5,5,255,12,Loyal / High Value
+C0006,Government,Construction,West,121,40,51412280,1285307.0,12.5,3.2,1,4,4,144,9,Potential / Needs Attention
+C0007,Corporate,Manufacturing,West,59,31,28648240,924136.7741935484,5.34,5.8,3,1,1,311,5,At Risk / Hibernating
+C0008,Corporate,Logistics,West,169,34,37972100,1116826.4705882352,3.58,9.5,1,2,2,122,5,At Risk / Hibernating
+C0009,Corporate,Rental,West,58,34,54041610,1589459.1176470588,12.59,2.7,3,2,4,324,9,Potential / Needs Attention
+C0010,Dealer,Construction,South,35,46,49509380,1076290.8695652173,5.11,9.0,4,5,4,454,13,Champions
+C0011,Retail,Infrastructure,West,40,41,44933810,1095946.5853658535,7.07,5.8,3,4,3,343,10,Loyal / High Value
+C0012,Fleet Owner,Logistics,South,83,37,41835630,1130692.7027027027,8.41,4.4,2,3,2,232,7,Potential / Needs Attention
+C0013,Dealer,Construction,West,66,44,60328180,1371095.0,11.58,3.8,2,5,5,255,12,Loyal / High Value
+C0014,Fleet Owner,Construction,East,11,27,32598320,1207345.1851851852,3.65,7.4,5,1,1,511,7,Potential / Needs Attention
+C0015,Government,Rental,West,46,34,47922560,1409487.0588235294,6.42,5.3,3,2,4,324,9,Potential / Needs Attention
+C0016,Government,Rental,East,14,35,55572340,1587781.142857143,9.46,3.7,5,3,5,535,13,Champions
+C0017,Government,Infrastructure,South,11,39,46409400,1189984.6153846155,7.65,5.1,5,4,3,543,12,Loyal / High Value
+C0018,Retail,Construction,West,48,31,38692710,1248151.935483871,4.31,7.2,3,1,2,312,6,At Risk / Hibernating
+C0019,Government,Logistics,East,22,37,33389880,902429.1891891892,52.86,0.7,4,3,1,431,8,Potential / Needs Attention
+C0020,Dealer,Logistics,East,76,37,33443220,903870.8108108108,6.07,6.1,2,3,1,231,6,At Risk / Hibernating
+C0021,Corporate,Mining,South,92,45,47093630,1046525.1111111112,20.45,2.2,2,5,3,253,10,Loyal / High Value
+C0022,Retail,Infrastructure,South,56,38,44575550,1173040.7894736845,4.75,8.0,3,4,3,343,10,Loyal / High Value
+C0023,Corporate,Mining,South,5,32,45671740,1427241.875,13.91,2.3,5,2,3,523,10,Loyal / High Value
+C0024,Dealer,Rental,South,106,44,47587690,1081538.4090909092,146.67,0.3,1,5,4,154,10,Loyal / High Value
+C0025,Corporate,Infrastructure,West,136,38,55220350,1453167.105263158,34.55,1.1,1,4,5,145,10,Loyal / High Value
+C0026,Fleet Owner,Mining,North,3,36,47482150,1318948.611111111,8.78,4.1,5,3,3,533,11,Loyal / High Value
+C0027,Fleet Owner,Logistics,West,6,39,42577230,1091723.8461538462,10.0,3.9,5,4,2,542,11,Loyal / High Value
+C0028,Retail,Infrastructure,South,49,29,30031300,1035562.0689655172,10.74,2.7,3,1,1,311,5,At Risk / Hibernating
+C0029,Dealer,Construction,South,185,38,45653420,1201405.7894736845,20.0,1.9,1,4,3,143,8,Potential / Needs Attention
+C0030,Corporate,Construction,South,121,32,45703710,1428240.9375,11.43,2.8,1,2,3,123,6,At Risk / Hibernating
+C0031,Government,Mining,East,141,34,39680260,1167066.4705882352,9.19,3.7,1,2,2,122,5,At Risk / Hibernating
+C0032,Government,Logistics,West,68,44,56493850,1283951.1363636365,5.71,7.7,2,5,5,255,12,Loyal / High Value
+C0033,Government,Mining,South,20,30,38713690,1290456.3333333333,13.04,2.3,4,1,2,412,7,Potential / Needs Attention
+C0034,Government,Construction,West,87,32,33363540,1042610.625,15.24,2.1,2,2,1,221,5,At Risk / Hibernating
+C0035,Dealer,Infrastructure,Central,50,38,41878010,1102052.894736842,5.21,7.3,3,4,2,342,9,Potential / Needs Attention
+C0036,Fleet Owner,Construction,East,14,31,38418260,1239298.7096774194,6.89,4.5,5,1,2,512,8,Potential / Needs Attention
+C0037,Corporate,Construction,West,68,36,35689100,991363.8888888888,3.87,9.3,2,3,1,231,6,At Risk / Hibernating
+C0038,Fleet Owner,Rental,North,33,36,45410090,1261391.388888889,4.44,8.1,4,3,3,433,10,Loyal / High Value
+C0039,Fleet Owner,Rental,South,34,38,49221640,1295306.3157894737,4.69,8.1,4,4,4,444,12,Loyal / High Value
+C0040,Government,Logistics,North,11,43,42259970,982790.0,9.77,4.4,5,5,2,552,12,Loyal / High Value
+C0041,Government,Rental,South,204,38,53358620,1404174.2105263155,7.04,5.4,1,4,4,144,9,Potential / Needs Attention
+C0042,Fleet Owner,Rental,South,80,41,57941340,1413203.4146341465,5.0,8.2,2,4,5,245,11,Loyal / High Value
+C0043,Corporate,Construction,South,201,36,37467660,1040768.3333333334,6.55,5.5,1,3,2,132,6,At Risk / Hibernating
+C0044,Government,Mining,West,45,34,38929350,1144980.8823529412,3.86,8.8,3,2,2,322,7,Potential / Needs Attention
+C0045,Corporate,Rental,East,17,42,59085670,1406801.6666666667,4.47,9.4,5,5,5,555,15,Champions
+C0046,Retail,Rental,West,23,46,68236200,1483395.652173913,6.57,7.0,4,5,5,455,14,Champions
+C0047,Corporate,Rental,West,129,30,45416100,1513870.0,5.36,5.6,1,1,3,113,5,At Risk / Hibernating
+C0048,Dealer,Mining,South,111,31,38811940,1251998.064516129,11.07,2.8,1,1,2,112,4,Lost / Low Value
+C0049,Dealer,Manufacturing,South,7,39,64589840,1656149.7435897435,21.67,1.8,5,4,5,545,14,Champions
+C0050,Dealer,Mining,East,18,27,44016360,1630235.5555555555,90.0,0.3,4,1,3,413,8,Potential / Needs Attention
+C0051,Retail,Infrastructure,North,47,36,46593280,1294257.7777777778,8.18,4.4,3,3,3,333,9,Potential / Needs Attention
+C0052,Government,Manufacturing,North East,21,35,44420040,1269144.0,14.0,2.5,4,3,3,433,10,Loyal / High Value
+C0053,Fleet Owner,Construction,North,105,27,35369930,1309997.4074074074,22.5,1.2,1,1,1,111,3,Lost / Low Value
+C0054,Fleet Owner,Manufacturing,South,18,37,49743760,1344425.945945946,185.0,0.2,4,3,4,434,11,Loyal / High Value
+C0055,Dealer,Construction,North,21,32,46311140,1447223.125,5.0,6.4,4,2,3,423,9,Potential / Needs Attention
+C0056,Dealer,Mining,North,52,36,47730860,1325857.2222222222,15.65,2.3,3,3,4,334,10,Loyal / High Value
+C0057,Retail,Logistics,East,28,32,39001020,1218781.875,3.33,9.6,4,2,2,422,8,Potential / Needs Attention
+C0058,Retail,Infrastructure,West,8,40,44606750,1115168.75,6.06,6.6,5,4,3,543,12,Loyal / High Value
+C0059,Retail,Manufacturing,South,12,32,44636580,1394893.125,7.62,4.2,5,2,3,523,10,Loyal / High Value
+C0060,Dealer,Mining,South,38,44,60575030,1376705.2272727273,5.95,7.4,3,5,5,355,13,Champions
+C0061,Dealer,Construction,West,115,29,26564250,916008.6206896552,3.26,8.9,1,1,1,111,3,Lost / Low Value
+C0062,Dealer,Construction,South,62,36,61918150,1719948.611111111,14.4,2.5,2,3,5,235,10,Loyal / High Value
+C0063,Retail,Rental,North,13,38,56519080,1487344.2105263155,4.94,7.7,5,4,5,545,14,Champions
+C0064,Corporate,Manufacturing,North,75,32,45390350,1418448.4375,4.0,8.0,2,2,3,223,7,Potential / Needs Attention
+C0065,Corporate,Mining,West,20,36,46865770,1301826.9444444445,15.65,2.3,4,3,3,433,10,Loyal / High Value
+C0066,Retail,Manufacturing,Central,82,32,42371560,1324111.25,160.0,0.2,2,2,2,222,6,At Risk / Hibernating
+C0067,Retail,Manufacturing,West,2,31,43570420,1405497.4193548388,3.2,9.7,5,1,3,513,9,Potential / Needs Attention
+C0068,Retail,Mining,North,26,39,45062980,1155461.0256410255,4.7,8.3,4,4,3,443,11,Loyal / High Value
+C0069,Dealer,Logistics,North,21,47,60517360,1287603.4042553192,14.24,3.3,4,5,5,455,14,Champions
+C0070,Government,Logistics,West,12,41,60254230,1469615.3658536586,19.52,2.1,5,4,5,545,14,Champions
+C0071,Corporate,Rental,North,36,42,56572600,1346966.6666666667,4.67,9.0,4,5,5,455,14,Champions
+C0072,Government,Logistics,West,9,26,43449850,1671148.076923077,4.06,6.4,5,1,3,513,9,Potential / Needs Attention
+C0073,Corporate,Rental,North,50,32,44726770,1397711.5625,7.8,4.1,3,2,3,323,8,Potential / Needs Attention
+C0074,Fleet Owner,Infrastructure,East,1,39,39627770,1016096.6666666666,6.09,6.4,5,4,2,542,11,Loyal / High Value
+C0075,Retail,Mining,South,73,33,39435130,1195003.9393939397,110.0,0.3,2,2,2,222,6,At Risk / Hibernating
+C0076,Government,Mining,South,87,45,62759940,1394665.3333333333,15.52,2.9,2,5,5,255,12,Loyal / High Value
+C0077,Corporate,Mining,North,16,34,45390570,1335016.7647058824,4.0,8.5,5,2,3,523,10,Loyal / High Value
+C0078,Dealer,Rental,South,193,31,33430220,1078394.1935483871,10.33,3.0,1,1,1,111,3,Lost / Low Value
+C0079,Retail,Rental,North,34,31,36993090,1193325.4838709678,31.0,0.0,4,1,1,411,6,At Risk / Hibernating
+C0080,Retail,Mining,South,59,42,44386690,1056825.9523809524,11.05,3.8,3,5,3,353,11,Loyal / High Value
+C0081,Corporate,Rental,West,9,37,44271750,1196533.7837837837,4.68,7.9,5,3,3,533,11,Loyal / High Value
+C0082,Fleet Owner,Manufacturing,West,14,46,60929520,1324554.7826086956,15.33,3.0,5,5,5,555,15,Champions
+C0083,Dealer,Infrastructure,North,89,45,70378740,1563972.0,7.03,6.4,2,5,5,255,12,Loyal / High Value
+C0084,Corporate,Logistics,West,101,39,57484480,1473961.0256410255,12.19,3.2,1,4,5,145,10,Loyal / High Value
+C0085,Retail,Mining,South,103,37,47385290,1280683.5135135136,16.82,2.2,1,3,3,133,7,Potential / Needs Attention
+C0086,Retail,Construction,West,40,29,46746570,1611950.6896551724,10.74,2.7,3,1,3,313,7,Potential / Needs Attention
+C0087,Government,Logistics,South,15,39,39608130,1015593.0769230768,7.5,5.2,5,4,2,542,11,Loyal / High Value
+C0088,Corporate,Infrastructure,West,148,36,44991010,1249750.2777777778,36.0,1.0,1,3,3,133,7,Potential / Needs Attention
+C0089,Corporate,Rental,West,48,37,37054300,1001467.5675675676,4.46,8.3,3,3,2,332,8,Potential / Needs Attention
+C0090,Government,Infrastructure,North,71,43,40810370,949078.3720930232,6.72,6.4,2,5,2,252,9,Potential / Needs Attention
+C0091,Retail,Construction,South,116,30,30689510,1022983.6666666666,27.27,1.1,1,1,1,111,3,Lost / Low Value
+C0092,Fleet Owner,Logistics,West,155,36,36740510,1020569.7222222222,15.0,2.4,1,3,1,131,5,At Risk / Hibernating
+C0093,Dealer,Manufacturing,South,31,36,45460060,1262779.4444444445,5.54,6.5,4,3,3,433,10,Loyal / High Value
+C0094,Corporate,Logistics,West,103,31,36407440,1174433.5483870967,9.12,3.4,1,1,1,111,3,Lost / Low Value
+C0095,Fleet Owner,Logistics,West,6,29,43640740,1504853.103448276,18.12,1.6,5,1,3,513,9,Potential / Needs Attention
+C0096,Corporate,Construction,South,2,34,40828880,1200849.4117647058,48.57,0.7,5,2,2,522,9,Potential / Needs Attention
+C0097,Corporate,Construction,West,16,26,37217840,1431455.3846153845,7.22,3.6,5,1,2,512,8,Potential / Needs Attention
+C0098,Corporate,Mining,East,14,35,44013350,1257524.2857142857,12.07,2.9,5,3,3,533,11,Loyal / High Value
+C0099,Fleet Owner,Rental,South,6,44,44372200,1008459.0909090908,5.79,7.6,5,5,3,553,13,Champions
+C0100,Government,Construction,North,113,38,38016250,1000427.6315789474,3.84,9.9,1,4,2,142,7,Potential / Needs Attention
+C0101,Corporate,Logistics,South,83,38,49185770,1294362.3684210526,9.74,3.9,2,4,4,244,10,Loyal / High Value
+C0102,Government,Infrastructure,East,69,34,56370590,1657958.5294117648,4.3,7.9,2,2,5,225,9,Potential / Needs Attention
+C0103,Dealer,Infrastructure,South,125,40,59164240,1479106.0,5.56,7.2,1,4,5,145,10,Loyal / High Value
+C0104,Fleet Owner,Infrastructure,South,2,34,33092730,973315.588235294,11.72,2.9,5,2,1,521,8,Potential / Needs Attention
+C0105,Government,Logistics,North,36,41,44966360,1096740.487804878,11.71,3.5,4,4,3,443,11,Loyal / High Value
+C0106,Dealer,Infrastructure,Central,50,39,45839560,1175373.3333333333,30.0,1.3,3,4,3,343,10,Loyal / High Value
+C0107,Fleet Owner,Construction,North,21,49,66825070,1363776.9387755103,7.54,6.5,4,5,5,455,14,Champions
+C0108,Corporate,Rental,North,3,24,24485250,1020218.75,2.58,9.3,5,1,1,511,7,Potential / Needs Attention
+C0109,Retail,Mining,South,23,44,54539050,1239523.8636363635,5.24,8.4,4,5,5,455,14,Champions
+C0110,Dealer,Logistics,Central,194,42,71230450,1695963.0952380951,23.33,1.8,1,5,5,155,11,Loyal / High Value
+C0111,Corporate,Construction,South,16,33,43914790,1330751.2121212122,3.4,9.7,5,2,3,523,10,Loyal / High Value
+C0112,Fleet Owner,Mining,South,31,33,36333120,1101003.6363636365,15.0,2.2,4,2,1,421,7,Potential / Needs Attention
+C0113,Corporate,Logistics,South,9,41,61701750,1504920.731707317,8.37,4.9,5,4,5,545,14,Champions
+C0114,Retail,Mining,East,96,33,38178710,1156930.606060606,4.34,7.6,2,2,2,222,6,At Risk / Hibernating
+C0115,Fleet Owner,Mining,South,34,29,34787020,1199552.4137931035,3.87,7.5,4,1,1,411,6,At Risk / Hibernating
+C0116,Dealer,Construction,North,157,35,50227070,1435059.142857143,8.75,4.0,1,3,4,134,8,Potential / Needs Attention
+C0117,Government,Mining,North East,142,31,30628680,988021.9354838708,38.75,0.8,1,1,1,111,3,Lost / Low Value
+C0118,Retail,Rental,South,22,32,32892640,1027895.0,9.41,3.4,4,2,1,421,7,Potential / Needs Attention
+C0119,Government,Manufacturing,West,67,51,52748640,1034287.0588235294,6.22,8.2,2,5,4,254,11,Loyal / High Value
+C0120,Fleet Owner,Construction,South,47,34,39523350,1162451.4705882352,340.0,0.1,3,2,2,322,7,Potential / Needs Attention
+C0121,Government,Construction,West,31,34,36904340,1085421.7647058824,7.08,4.8,4,2,1,421,7,Potential / Needs Attention
+C0122,Dealer,Rental,North East,57,31,37712330,1216526.7741935484,44.29,0.7,3,1,2,312,6,At Risk / Hibernating
+C0123,Corporate,Infrastructure,East,58,36,54900300,1525008.3333333333,6.92,5.2,3,3,5,335,11,Loyal / High Value
+C0124,Dealer,Construction,West,58,42,43084310,1025816.9047619049,5.06,8.3,3,5,3,353,11,Loyal / High Value
+C0125,Government,Mining,West,23,30,25077820,835927.3333333334,3.7,8.1,4,1,1,411,6,At Risk / Hibernating
+C0126,Dealer,Manufacturing,South,271,33,50213860,1521632.121212121,4.65,7.1,1,2,4,124,7,Potential / Needs Attention
+C0127,Government,Construction,East,190,28,38456060,1373430.7142857143,2.83,9.9,1,1,2,112,4,Lost / Low Value
+C0128,Retail,Mining,West,14,33,54226840,1643237.5757575757,9.71,3.4,5,2,4,524,11,Loyal / High Value
+C0129,Corporate,Mining,North,62,36,59941820,1665050.5555555555,5.07,7.1,2,3,5,235,10,Loyal / High Value
+C0130,Government,Mining,West,46,39,47103710,1207787.435897436,10.83,3.6,3,4,3,343,10,Loyal / High Value
+C0131,Corporate,Rental,South,201,32,46237660,1444926.875,8.0,4.0,1,2,3,123,6,At Risk / Hibernating
+C0132,Corporate,Construction,Central,92,37,38534330,1041468.3783783783,16.09,2.3,2,3,2,232,7,Potential / Needs Attention
+C0133,Government,Mining,South,269,29,40181100,1385555.1724137932,5.18,5.6,1,1,2,112,4,Lost / Low Value
+C0134,Fleet Owner,Infrastructure,West,38,48,66943890,1394664.375,96.0,0.5,3,5,5,355,13,Champions
+C0135,Retail,Rental,South,127,35,49182970,1405227.7142857143,4.86,7.2,1,3,4,134,8,Potential / Needs Attention
+C0136,Dealer,Mining,West,49,37,35915090,970678.1081081082,8.81,4.2,3,3,1,331,7,Potential / Needs Attention
+C0137,Dealer,Infrastructure,South,205,21,33571570,1598646.1904761903,2.31,9.1,1,1,1,111,3,Lost / Low Value
+C0138,Corporate,Mining,South,7,34,49111730,1444462.6470588236,4.05,8.4,5,2,4,524,11,Loyal / High Value
+C0139,Government,Mining,West,62,29,29295750,1010198.275862069,22.31,1.3,2,1,1,211,4,Lost / Low Value
+C0140,Retail,Logistics,West,38,37,47230520,1276500.5405405406,5.52,6.7,3,3,3,333,9,Potential / Needs Attention
+C0141,Corporate,Rental,West,47,36,51926540,1442403.888888889,90.0,0.4,3,3,4,334,10,Loyal / High Value
+C0142,Retail,Manufacturing,West,24,45,66580100,1479557.7777777778,23.68,1.9,4,5,5,455,14,Champions
+C0143,Corporate,Infrastructure,South,152,27,35058490,1298462.5925925926,3.8,7.1,1,1,1,111,3,Lost / Low Value
+C0144,Fleet Owner,Construction,West,131,25,31072090,1242883.6,11.36,2.2,1,1,1,111,3,Lost / Low Value
+C0145,Retail,Construction,West,3,33,27079080,820578.1818181818,41.25,0.8,5,2,1,521,8,Potential / Needs Attention
+C0146,Retail,Mining,West,1,30,48058590,1601953.0,60.0,0.5,5,1,4,514,10,Loyal / High Value
+C0147,Dealer,Rental,North,10,30,34566290,1152209.6666666667,3.85,7.8,5,1,1,511,7,Potential / Needs Attention
+C0148,Government,Construction,South,23,35,43008380,1228810.857142857,5.15,6.8,4,3,3,433,10,Loyal / High Value
+C0149,Government,Manufacturing,West,20,38,51241680,1348465.2631578948,8.09,4.7,4,4,4,444,12,Loyal / High Value
+C0150,Fleet Owner,Manufacturing,West,53,30,32673410,1089113.6666666667,10.34,2.9,3,1,1,311,5,At Risk / Hibernating
+C0151,Government,Infrastructure,East,34,27,31051670,1150061.851851852,3.18,8.5,4,1,1,411,6,At Risk / Hibernating
+C0152,Corporate,Manufacturing,South,44,40,48907690,1222692.25,19.05,2.1,3,4,4,344,11,Loyal / High Value
+C0153,Retail,Rental,East,20,56,84966970,1517267.3214285714,7.67,7.3,4,5,5,455,14,Champions
+C0154,Fleet Owner,Logistics,North,133,45,58187170,1293048.2222222222,7.26,6.2,1,5,5,155,11,Loyal / High Value
+C0155,Fleet Owner,Mining,East,15,31,32588940,1051256.1290322582,3.16,9.8,5,2,1,521,8,Potential / Needs Attention
+C0156,Government,Manufacturing,South,106,33,52631480,1594893.3333333333,11.38,2.9,1,2,4,124,7,Potential / Needs Attention
+C0157,Dealer,Infrastructure,North,2,34,43654580,1283958.2352941176,5.0,6.8,5,2,3,523,10,Loyal / High Value
+C0158,Corporate,Infrastructure,East,97,36,46231390,1284205.2777777778,7.2,5.0,2,3,3,233,8,Potential / Needs Attention
+C0159,Dealer,Construction,South,6,34,39245590,1154282.0588235294,6.54,5.2,5,2,2,522,9,Potential / Needs Attention
+C0160,Retail,Rental,West,39,44,55534390,1262145.2272727273,17.6,2.5,3,5,5,355,13,Champions
+C0161,Dealer,Mining,West,45,37,47774340,1291198.3783783785,13.21,2.8,3,3,4,334,10,Loyal / High Value
+C0162,Retail,Mining,East,79,28,48770920,1741818.5714285714,2.89,9.7,2,1,4,214,7,Potential / Needs Attention
+C0163,Dealer,Logistics,West,149,38,36480350,960009.2105263158,7.31,5.2,1,4,1,141,6,At Risk / Hibernating
+C0164,Government,Construction,North,49,36,35851210,995866.9444444444,3.71,9.7,3,3,1,331,7,Potential / Needs Attention
+C0165,Fleet Owner,Manufacturing,North,8,50,62168180,1243363.6,7.94,6.3,5,5,5,555,15,Champions
+C0166,Fleet Owner,Manufacturing,West,24,32,54482720,1702585.0,3.48,9.2,4,2,5,425,11,Loyal / High Value
+C0167,Retail,Mining,West,4,31,39616580,1277954.1935483871,4.92,6.3,5,2,2,522,9,Potential / Needs Attention
+C0168,Dealer,Infrastructure,West,14,34,50309900,1479702.9411764706,17.0,2.0,5,2,4,524,11,Loyal / High Value
+C0169,Fleet Owner,Construction,West,66,40,54509920,1362748.0,5.33,7.5,2,4,5,245,11,Loyal / High Value
+C0170,Government,Construction,South,12,27,30542780,1131214.0740740742,3.6,7.5,5,1,1,511,7,Potential / Needs Attention
+C0171,Fleet Owner,Construction,South,74,30,43403890,1446796.3333333333,4.62,6.5,2,1,3,213,6,At Risk / Hibernating
+C0172,Dealer,Manufacturing,South,35,37,44967390,1215334.8648648649,46.25,0.8,4,4,3,443,11,Loyal / High Value
+C0173,Retail,Logistics,South,75,31,45510430,1468078.3870967743,5.64,5.5,2,2,3,223,7,Potential / Needs Attention
+C0174,Government,Mining,West,29,29,23386250,806422.4137931034,3.22,9.0,4,1,1,411,6,At Risk / Hibernating
+C0175,Fleet Owner,Rental,East,61,36,46583410,1293983.611111111,4.39,8.2,2,3,3,233,8,Potential / Needs Attention
+C0176,Dealer,Logistics,South,147,42,52504460,1250106.1904761903,6.46,6.5,1,5,4,154,10,Loyal / High Value
+C0177,Dealer,Construction,West,7,28,28125780,1004492.1428571428,2.83,9.9,5,1,1,511,7,Potential / Needs Attention
+C0178,Dealer,Logistics,East,23,54,70236970,1300684.6296296297,5.68,9.5,4,5,5,455,14,Champions
+C0179,Government,Infrastructure,South,164,32,34009700,1062803.125,3.86,8.3,1,2,1,121,4,Lost / Low Value
+C0180,Fleet Owner,Logistics,South,22,27,23677460,876942.9629629629,19.29,1.4,4,1,1,411,6,At Risk / Hibernating
+C0181,Government,Construction,West,17,36,41700450,1158345.8333333333,6.55,5.5,5,3,2,532,10,Loyal / High Value
+C0182,Dealer,Infrastructure,East,151,29,32105700,1107093.103448276,72.5,0.4,1,1,1,111,3,Lost / Low Value
+C0183,Government,Mining,West,27,27,25426200,941711.1111111112,12.86,2.1,4,1,1,411,6,At Risk / Hibernating
+C0184,Retail,Rental,South,34,29,48287230,1665076.896551724,18.12,1.6,4,1,4,414,9,Potential / Needs Attention
+C0185,Dealer,Logistics,West,107,33,37319640,1130898.181818182,6.23,5.3,1,2,2,122,5,At Risk / Hibernating
+C0186,Fleet Owner,Infrastructure,East,21,40,55408900,1385222.5,5.26,7.6,4,4,5,445,13,Champions
+C0187,Retail,Rental,North,54,30,36769950,1225665.0,5.17,5.8,3,1,1,311,5,At Risk / Hibernating
+C0188,Corporate,Logistics,West,5,39,42691360,1094650.2564102565,7.8,5.0,5,4,2,542,11,Loyal / High Value
+C0189,Government,Manufacturing,South,51,35,47996060,1371316.0,5.22,6.7,3,3,4,334,10,Loyal / High Value
+C0190,Retail,Manufacturing,North,3,35,44179380,1262268.0,5.74,6.1,5,3,3,533,11,Loyal / High Value
+C0191,Corporate,Manufacturing,South,20,29,51572860,1778374.4827586208,2.93,9.9,4,1,4,414,9,Potential / Needs Attention
+C0192,Fleet Owner,Logistics,East,125,40,54295880,1357397.0,30.77,1.3,1,4,4,144,9,Potential / Needs Attention
+C0193,Dealer,Infrastructure,West,32,38,53179600,1399463.1578947369,4.18,9.1,4,4,4,444,12,Loyal / High Value
+C0194,Fleet Owner,Construction,South,6,33,37787710,1145082.121212121,110.0,0.3,5,2,2,522,9,Potential / Needs Attention
+C0195,Fleet Owner,Logistics,East,4,31,44526020,1436323.2258064516,44.29,0.7,5,2,3,523,10,Loyal / High Value
+C0196,Fleet Owner,Rental,North East,65,48,55921870,1165038.9583333333,13.33,3.6,2,5,5,255,12,Loyal / High Value
+C0197,Government,Manufacturing,West,75,47,60798070,1293575.9574468085,94.0,0.5,2,5,5,255,12,Loyal / High Value
+C0198,Government,Mining,West,153,36,49819290,1383869.1666666667,6.21,5.8,1,3,4,134,8,Potential / Needs Attention
+C0199,Government,Mining,West,72,33,38456880,1165360.0,16.5,2.0,2,2,2,222,6,At Risk / Hibernating
+C0200,Retail,Logistics,East,37,47,66268870,1409975.9574468085,5.4,8.7,4,5,5,455,14,Champions
+C0201,Dealer,Infrastructure,South,19,47,63133600,1343268.085106383,235.0,0.2,4,5,5,455,14,Champions
+C0202,Government,Logistics,North,102,28,39546540,1412376.4285714286,5.96,4.7,1,1,2,112,4,Lost / Low Value
+C0203,Government,Manufacturing,West,43,35,42161670,1204619.142857143,6.48,5.4,3,3,2,332,8,Potential / Needs Attention
+C0204,Retail,Rental,South,24,31,31359900,1011609.6774193548,5.96,5.2,4,2,1,421,7,Potential / Needs Attention
+C0205,Retail,Construction,North,47,33,40742250,1234613.6363636365,8.25,4.0,3,2,2,322,7,Potential / Needs Attention
+C0206,Retail,Construction,West,21,40,70279540,1756988.5,10.53,3.8,4,4,5,445,13,Champions
+C0207,Corporate,Rental,East,80,45,68312200,1518048.888888889,11.25,4.0,2,5,5,255,12,Loyal / High Value
+C0208,Fleet Owner,Logistics,North,2,30,36866060,1228868.6666666667,3.06,9.8,5,1,1,511,7,Potential / Needs Attention
+C0209,Corporate,Infrastructure,East,40,44,51373630,1167582.5,12.94,3.4,3,5,4,354,12,Loyal / High Value
+C0210,Retail,Infrastructure,West,36,30,41928210,1397607.0,3.61,8.3,4,1,2,412,7,Potential / Needs Attention
+C0211,Fleet Owner,Manufacturing,South,42,42,46705690,1112040.238095238,4.83,8.7,3,5,3,353,11,Loyal / High Value
+C0212,Retail,Infrastructure,North East,131,31,35519950,1145804.838709677,310.0,0.1,1,2,1,121,4,Lost / Low Value
+C0213,Fleet Owner,Rental,West,123,30,51921070,1730702.3333333333,6.25,4.8,1,1,4,114,6,At Risk / Hibernating
+C0214,Corporate,Rental,West,6,31,39709250,1280943.5483870967,11.92,2.6,5,2,2,522,9,Potential / Needs Attention
+C0215,Corporate,Rental,South,8,49,58120530,1186133.2653061224,6.2,7.9,5,5,5,555,15,Champions
+C0216,Government,Mining,East,42,39,48655520,1247577.435897436,19.5,2.0,3,4,4,344,11,Loyal / High Value
+C0217,Corporate,Infrastructure,North,14,36,48179740,1338326.111111111,8.18,4.4,5,3,4,534,12,Loyal / High Value
+C0218,Fleet Owner,Construction,West,77,36,34801450,966706.9444444444,6.0,6.0,2,3,1,231,6,At Risk / Hibernating
+C0219,Government,Manufacturing,West,11,39,47075000,1207051.282051282,130.0,0.3,5,4,3,543,12,Loyal / High Value
+C0220,Government,Infrastructure,Central,56,43,41988750,976482.5581395348,4.89,8.8,3,5,2,352,10,Loyal / High Value
+C0221,Dealer,Logistics,North,118,44,64336800,1462200.0,8.8,5.0,1,5,5,155,11,Loyal / High Value
+C0222,Fleet Owner,Logistics,North,19,41,44904020,1095220.0,41.0,1.0,4,4,3,443,11,Loyal / High Value
+C0223,Corporate,Logistics,West,78,33,42492870,1287662.7272727273,9.71,3.4,2,2,2,222,6,At Risk / Hibernating
+C0224,Retail,Manufacturing,East,62,36,42395680,1177657.7777777778,6.32,5.7,2,3,2,232,7,Potential / Needs Attention
+C0225,Fleet Owner,Logistics,North,168,48,54324600,1131762.5,7.87,6.1,1,5,5,155,11,Loyal / High Value
+C0226,Dealer,Logistics,West,95,26,36902950,1419344.2307692308,130.0,0.2,2,1,1,211,4,Lost / Low Value
+C0227,Fleet Owner,Infrastructure,East,69,34,45457070,1336972.6470588236,6.67,5.1,2,2,3,223,7,Potential / Needs Attention
+C0228,Government,Construction,South,113,34,47933580,1409811.1764705882,3.62,9.4,1,3,4,134,8,Potential / Needs Attention
+C0229,Government,Mining,East,33,28,34806810,1243100.357142857,2.8,10.0,4,1,1,411,6,At Risk / Hibernating
+C0230,Dealer,Infrastructure,North,62,38,48757760,1283098.9473684211,6.13,6.2,2,4,4,244,10,Loyal / High Value
+C0231,Government,Infrastructure,West,54,32,40582530,1268204.0625,29.09,1.1,3,2,2,322,7,Potential / Needs Attention
+C0232,Government,Mining,South,3,37,45159600,1220529.7297297297,16.82,2.2,5,4,3,543,12,Loyal / High Value
+C0233,Government,Logistics,East,72,28,39173800,1399064.2857142857,25.45,1.1,2,1,2,212,5,At Risk / Hibernating
+C0234,Corporate,Infrastructure,West,6,29,56717930,1955790.6896551724,3.41,8.5,5,1,5,515,11,Loyal / High Value
+C0235,Fleet Owner,Mining,East,113,38,47454230,1248795.5263157894,5.43,7.0,1,4,3,143,8,Potential / Needs Attention
+C0236,Corporate,Mining,West,68,41,45446800,1108458.536585366,4.32,9.5,2,4,3,243,9,Potential / Needs Attention
+C0237,Dealer,Infrastructure,South,78,44,58676380,1333554.0909090908,4.58,9.6,2,5,5,255,12,Loyal / High Value
+C0238,Corporate,Construction,South,282,30,28891440,963048.0,7.14,4.2,1,1,1,111,3,Lost / Low Value
+C0239,Government,Logistics,South,66,32,35255050,1101720.3125,20.0,1.6,2,2,1,221,5,At Risk / Hibernating
+C0240,Corporate,Manufacturing,South,52,46,72778580,1582143.043478261,9.39,4.9,3,5,5,355,13,Champions
+C0241,Government,Construction,West,62,39,57604400,1477035.8974358975,4.33,9.0,2,4,5,245,11,Loyal / High Value
+C0242,Government,Construction,South,44,47,57416320,1221623.829787234,7.23,6.5,3,5,5,355,13,Champions
+C0243,Government,Construction,North,22,28,33315370,1189834.642857143,2.92,9.6,4,1,1,411,6,At Risk / Hibernating
+C0244,Government,Logistics,North,23,44,60886580,1383785.9090909092,36.67,1.2,4,5,5,455,14,Champions
+C0245,Dealer,Logistics,South,32,33,44342070,1343699.0909090908,11.0,3.0,4,2,3,423,9,Potential / Needs Attention
+C0246,Retail,Manufacturing,North,60,35,60399770,1725707.7142857143,70.0,0.5,2,3,5,235,10,Loyal / High Value
+C0247,Corporate,Logistics,East,49,39,53174220,1363441.5384615385,4.7,8.3,3,4,4,344,11,Loyal / High Value
+C0248,Fleet Owner,Rental,West,28,30,35510400,1183680.0,12.5,2.4,4,1,1,411,6,At Risk / Hibernating
+C0249,Corporate,Construction,West,120,35,49712310,1420351.7142857143,4.07,8.6,1,3,4,134,8,Potential / Needs Attention
+C0250,Government,Infrastructure,East,12,43,58330380,1356520.465116279,107.5,0.4,5,5,5,555,15,Champions
+C0251,Dealer,Mining,North,179,36,47504560,1319571.111111111,4.19,8.6,1,3,3,133,7,Potential / Needs Attention
+C0252,Retail,Construction,South,86,34,35584220,1046594.7058823528,37.78,0.9,2,3,1,231,6,At Risk / Hibernating
+C0253,Retail,Rental,West,35,39,57279120,1468695.3846153845,8.67,4.5,4,4,5,445,13,Champions
+C0254,Dealer,Mining,West,98,48,70227620,1463075.4166666667,7.62,6.3,2,5,5,255,12,Loyal / High Value
+C0255,Retail,Infrastructure,South,51,45,55876690,1241704.2222222222,30.0,1.5,3,5,5,355,13,Champions
+C0256,Corporate,Infrastructure,North East,104,30,46110780,1537026.0,23.08,1.3,1,1,3,113,5,At Risk / Hibernating
+C0257,Corporate,Logistics,North,9,43,59812600,1390990.6976744186,7.68,5.6,5,5,5,555,15,Champions
+C0258,Corporate,Mining,South,83,28,48830880,1743960.0,14.74,1.9,2,1,4,214,7,Potential / Needs Attention
+C0259,Fleet Owner,Logistics,South,19,33,47259670,1432111.2121212122,5.0,6.6,4,2,3,423,9,Potential / Needs Attention
+C0260,Dealer,Logistics,South,118,32,43590270,1362195.9375,5.25,6.1,1,2,3,123,6,At Risk / Hibernating
+C0261,Dealer,Manufacturing,North,26,33,49449470,1498468.7878787878,3.75,8.8,4,2,4,424,10,Loyal / High Value
+C0262,Corporate,Logistics,North,28,26,28771050,1106578.8461538462,4.19,6.2,4,1,1,411,6,At Risk / Hibernating
+C0263,Government,Rental,South,61,35,48351480,1381470.857142857,9.72,3.6,2,3,4,234,9,Potential / Needs Attention
+C0264,Retail,Infrastructure,West,60,36,52753710,1465380.8333333333,36.0,1.0,2,3,4,234,9,Potential / Needs Attention
+C0265,Retail,Mining,West,96,29,37594220,1296352.4137931035,15.26,1.9,2,1,2,212,5,At Risk / Hibernating
+C0266,Fleet Owner,Rental,South,99,35,39797800,1137080.0,7.14,4.9,1,3,2,132,6,At Risk / Hibernating
+C0267,Fleet Owner,Infrastructure,South,282,29,36465390,1257427.2413793104,10.0,2.9,1,1,1,111,3,Lost / Low Value
+C0268,Government,Mining,West,86,32,49962270,1561320.9375,8.89,3.6,2,2,4,224,8,Potential / Needs Attention
+C0269,Government,Mining,South,40,41,48367030,1179683.6585365853,4.32,9.5,3,4,4,344,11,Loyal / High Value
+C0270,Corporate,Manufacturing,North,12,43,53374960,1241278.1395348837,4.57,9.4,5,5,4,554,14,Champions
+C0271,Corporate,Infrastructure,South,36,24,29644660,1235194.1666666667,8.0,3.0,4,1,1,411,6,At Risk / Hibernating
+C0272,Government,Construction,North,19,39,59253070,1519309.4871794872,195.0,0.2,4,4,5,445,13,Champions
+C0273,Dealer,Manufacturing,East,1,37,47764950,1290944.5945945946,16.82,2.2,5,4,4,544,13,Champions
+C0274,Dealer,Mining,North,188,39,42946740,1101198.4615384615,10.83,3.6,1,4,3,143,8,Potential / Needs Attention
+C0275,Fleet Owner,Construction,West,56,45,50445750,1121016.6666666667,20.45,2.2,3,5,4,354,12,Loyal / High Value
+C0276,Dealer,Manufacturing,Central,3,44,52803770,1200085.681818182,55.0,0.8,5,5,4,554,14,Champions
+C0277,Dealer,Logistics,West,109,36,34361720,954492.2222222222,4.68,7.7,1,3,1,131,5,At Risk / Hibernating
+C0278,Fleet Owner,Logistics,West,29,38,37042540,974803.6842105264,7.45,5.1,4,4,2,442,10,Loyal / High Value
+C0279,Dealer,Rental,West,50,26,27795350,1069051.923076923,4.73,5.5,3,1,1,311,5,At Risk / Hibernating
+C0280,Corporate,Construction,West,57,42,46383310,1104364.5238095238,4.29,9.8,3,5,3,353,11,Loyal / High Value
+C0281,Government,Logistics,South,190,26,36333020,1397423.8461538462,23.64,1.1,1,1,1,111,3,Lost / Low Value
+C0282,Government,Logistics,East,8,44,54475470,1238078.8636363635,11.28,3.9,5,5,5,555,15,Champions
+C0283,Retail,Logistics,North,119,31,34916310,1126332.5806451612,7.95,3.9,1,2,1,121,4,Lost / Low Value
+C0284,Corporate,Manufacturing,East,9,41,54612880,1332021.463414634,6.21,6.6,5,4,5,545,14,Champions
+C0285,Government,Infrastructure,West,27,47,42474460,903711.914893617,4.8,9.8,4,5,2,452,11,Loyal / High Value
+C0286,Dealer,Construction,South,3,36,47333390,1314816.388888889,6.79,5.3,5,3,3,533,11,Loyal / High Value
+C0287,Dealer,Manufacturing,South,35,36,43261120,1201697.7777777778,5.9,6.1,4,3,3,433,10,Loyal / High Value
+C0288,Dealer,Infrastructure,North,75,55,76291160,1387112.0,6.96,7.9,2,5,5,255,12,Loyal / High Value
+C0289,Corporate,Logistics,South,64,35,39396940,1125626.857142857,116.67,0.3,2,3,2,232,7,Potential / Needs Attention
+C0290,Corporate,Construction,West,47,40,45014240,1125356.0,9.76,4.1,3,4,3,343,10,Loyal / High Value
+C0291,Retail,Construction,South,29,46,61983900,1347476.0869565215,9.79,4.7,4,5,5,455,14,Champions
+C0292,Corporate,Rental,Central,248,27,24356960,902109.6296296295,45.0,0.6,1,1,1,111,3,Lost / Low Value
+C0293,Dealer,Logistics,West,98,36,52424230,1456228.611111111,10.0,3.6,2,3,4,234,9,Potential / Needs Attention
+C0294,Government,Infrastructure,South,5,45,62587650,1390836.6666666667,7.26,6.2,5,5,5,555,15,Champions
+C0295,Corporate,Mining,East,84,38,51330170,1350793.9473684211,4.13,9.2,2,4,4,244,10,Loyal / High Value
+C0296,Corporate,Manufacturing,East,55,40,44706560,1117664.0,6.35,6.3,3,4,3,343,10,Loyal / High Value
+C0297,Fleet Owner,Rental,South,184,34,57279920,1684703.5294117648,6.42,5.3,1,3,5,135,9,Potential / Needs Attention
+C0298,Fleet Owner,Construction,South,42,33,36725200,1112884.8484848484,8.92,3.7,3,2,1,321,6,At Risk / Hibernating
+C0299,Retail,Logistics,South,124,34,37822560,1112428.2352941176,3.7,9.2,1,3,2,132,6,At Risk / Hibernating
+C0300,Dealer,Mining,North,44,40,57051500,1426287.5,5.63,7.1,3,4,5,345,12,Loyal / High Value
+C0301,Dealer,Mining,East,13,46,50074420,1088574.347826087,32.86,1.4,5,5,4,554,14,Champions
+C0302,Fleet Owner,Mining,West,8,36,49894150,1385948.611111111,90.0,0.4,5,3,4,534,12,Loyal / High Value
+C0303,Corporate,Mining,West,31,27,25492220,944156.2962962964,3.14,8.6,4,1,1,411,6,At Risk / Hibernating
+C0304,Dealer,Construction,North,7,48,67903880,1414664.1666666667,5.0,9.6,5,5,5,555,15,Champions
+C0305,Fleet Owner,Logistics,North,35,31,37914410,1223045.4838709678,4.08,7.6,4,2,2,422,8,Potential / Needs Attention
+C0306,Fleet Owner,Manufacturing,East,16,42,54784400,1304390.4761904762,19.09,2.2,5,5,5,555,15,Champions
+C0307,Dealer,Manufacturing,West,38,42,57776220,1375624.2857142857,6.18,6.8,3,5,5,355,13,Champions
+C0308,Retail,Mining,North,20,33,39549470,1198468.7878787878,9.17,3.6,4,2,2,422,8,Potential / Needs Attention
+C0309,Government,Manufacturing,West,15,31,29869120,963520.0,4.31,7.2,5,2,1,521,8,Potential / Needs Attention
+C0310,Government,Infrastructure,East,55,39,46376420,1189138.9743589745,12.58,3.1,3,4,3,343,10,Loyal / High Value
+C0311,Government,Infrastructure,North,106,41,54370990,1326121.7073170731,5.69,7.2,1,5,5,155,11,Loyal / High Value
+C0312,Government,Construction,West,45,37,51311620,1386800.5405405406,30.83,1.2,3,4,4,344,11,Loyal / High Value
+C0313,Corporate,Mining,West,121,30,37841680,1261389.3333333333,4.05,7.4,1,1,2,112,4,Lost / Low Value
+C0314,Retail,Logistics,East,97,36,46037410,1278816.9444444445,6.0,6.0,2,3,3,233,8,Potential / Needs Attention
+C0315,Dealer,Rental,West,15,40,48208830,1205220.75,26.67,1.5,5,4,4,544,13,Champions
+C0316,Dealer,Manufacturing,East,101,33,35655050,1080456.0606060603,110.0,0.3,1,2,1,121,4,Lost / Low Value
+C0317,Corporate,Manufacturing,South,7,32,34026890,1063340.3125,4.57,7.0,5,2,1,521,8,Potential / Needs Attention
+C0318,Corporate,Logistics,North,76,36,48754200,1354283.3333333333,11.61,3.1,2,3,4,234,9,Potential / Needs Attention
+C0319,Dealer,Mining,South,24,33,47364750,1435295.4545454546,7.02,4.7,4,2,3,423,9,Potential / Needs Attention
+C0320,Retail,Construction,North,2,34,42001120,1235327.0588235294,3.51,9.7,5,3,2,532,10,Loyal / High Value
+C0321,Retail,Logistics,South,187,38,42809230,1126558.6842105263,4.18,9.1,1,4,2,142,7,Potential / Needs Attention
+C0322,Government,Construction,West,22,28,32200600,1150021.4285714286,13.33,2.1,4,1,1,411,6,At Risk / Hibernating
+C0323,Government,Manufacturing,West,10,36,39487910,1096886.388888889,7.06,5.1,5,3,2,532,10,Loyal / High Value
+C0324,Corporate,Mining,South,130,35,41098360,1174238.857142857,6.86,5.1,1,3,2,132,6,At Risk / Hibernating
+C0325,Corporate,Rental,East,53,30,41524630,1384154.3333333333,15.79,1.9,3,1,2,312,6,At Risk / Hibernating
+C0326,Government,Mining,East,2,42,51922180,1236242.380952381,5.06,8.3,5,5,4,554,14,Champions
+C0327,Retail,Mining,West,26,43,47883020,1113558.6046511629,5.58,7.7,4,5,4,454,13,Champions
+C0328,Government,Rental,East,27,37,49201820,1329778.9189189188,3.94,9.4,4,4,4,444,12,Loyal / High Value
+C0329,Dealer,Infrastructure,Central,6,36,50414010,1400389.1666666667,10.59,3.4,5,3,4,534,12,Loyal / High Value
+C0330,Retail,Infrastructure,East,144,38,42673670,1122991.3157894737,7.6,5.0,1,4,2,142,7,Potential / Needs Attention
+C0331,Dealer,Logistics,North,17,42,53327060,1269691.9047619049,5.12,8.2,5,5,4,554,14,Champions
+C0332,Corporate,Mining,South,51,35,35068830,1001966.5714285716,6.14,5.7,3,3,1,331,7,Potential / Needs Attention
+C0333,Corporate,Mining,South,30,39,49686600,1274015.3846153845,6.96,5.6,4,4,4,444,12,Loyal / High Value
+C0334,Corporate,Mining,South,130,33,29449120,892397.5757575758,6.6,5.0,1,2,1,121,4,Lost / Low Value
+C0335,Government,Infrastructure,North East,59,38,47401100,1247397.3684210526,5.21,7.3,3,4,3,343,10,Loyal / High Value
+C0336,Government,Rental,East,97,33,30736480,931408.4848484847,6.35,5.2,2,2,1,221,5,At Risk / Hibernating
+C0337,Corporate,Manufacturing,North,129,34,57585510,1693691.4705882352,3.82,8.9,1,3,5,135,9,Potential / Needs Attention
+C0338,Corporate,Rental,West,39,33,40964750,1241356.0606060603,15.71,2.1,3,2,2,322,7,Potential / Needs Attention
+C0339,Fleet Owner,Logistics,South,138,24,31557880,1314911.6666666667,2.96,8.1,1,1,1,111,3,Lost / Low Value
+C0340,Government,Mining,South,28,35,49824870,1423567.7142857143,13.46,2.6,4,3,4,434,11,Loyal / High Value
+C0341,Fleet Owner,Mining,North,86,36,52480080,1457780.0,10.59,3.4,2,3,4,234,9,Potential / Needs Attention
+C0342,Dealer,Infrastructure,North,84,36,57066210,1585172.5,32.73,1.1,2,3,5,235,10,Loyal / High Value
+C0343,Corporate,Construction,West,41,40,53611870,1340296.75,5.8,6.9,3,4,4,344,11,Loyal / High Value
+C0344,Fleet Owner,Mining,West,198,28,37729300,1347475.0,3.18,8.8,1,1,2,112,4,Lost / Low Value
+C0345,Retail,Infrastructure,West,42,40,39617420,990435.5,10.81,3.7,3,4,2,342,9,Potential / Needs Attention
+C0346,Retail,Construction,East,47,39,42873560,1099322.0512820513,12.58,3.1,3,4,2,342,9,Potential / Needs Attention
+C0347,Retail,Mining,North,29,24,17721530,738397.0833333334,5.45,4.4,4,1,1,411,6,At Risk / Hibernating
+C0348,Retail,Logistics,North,69,34,39978280,1175831.7647058824,68.0,0.5,2,3,2,232,7,Potential / Needs Attention
+C0349,Corporate,Rental,West,74,33,44485700,1348051.5151515151,5.41,6.1,2,2,3,223,7,Potential / Needs Attention
+C0350,Dealer,Logistics,North East,37,32,32353150,1011035.9375,3.44,9.3,4,2,1,421,7,Potential / Needs Attention
+C0351,Corporate,Rental,East,111,34,35183170,1034799.1176470588,5.57,6.1,1,3,1,131,5,At Risk / Hibernating
+C0352,Corporate,Mining,South,51,30,31581590,1052719.6666666667,3.57,8.4,3,1,1,311,5,At Risk / Hibernating
+C0353,Dealer,Manufacturing,North,85,27,25154270,931639.6296296295,5.19,5.2,2,1,1,211,4,Lost / Low Value
+C0354,Corporate,Logistics,South,7,37,44585860,1205023.2432432433,24.67,1.5,5,4,3,543,12,Loyal / High Value
+C0355,Government,Infrastructure,South,14,32,46214030,1444188.4375,15.24,2.1,5,2,3,523,10,Loyal / High Value
+C0356,Dealer,Mining,East,27,45,62479450,1388432.2222222222,50.0,0.9,4,5,5,455,14,Champions
+C0357,Corporate,Mining,West,45,28,45252290,1616153.2142857143,25.45,1.1,3,1,3,313,7,Potential / Needs Attention
+C0358,Government,Infrastructure,West,92,36,46632120,1295336.6666666667,6.55,5.5,2,3,3,233,8,Potential / Needs Attention
+C0359,Fleet Owner,Mining,South,34,46,67221300,1461332.608695652,8.68,5.3,4,5,5,455,14,Champions
+C0360,Dealer,Construction,West,45,31,42914200,1384329.0322580645,6.74,4.6,3,2,2,322,7,Potential / Needs Attention
+C0361,Government,Logistics,South,97,32,41202210,1287569.0625,5.61,5.7,2,2,2,222,6,At Risk / Hibernating
+C0362,Corporate,Rental,West,82,37,41935190,1133383.5135135136,4.07,9.1,2,4,2,242,8,Potential / Needs Attention
+C0363,Fleet Owner,Logistics,South,55,32,42048290,1314009.0625,11.43,2.8,3,2,2,322,7,Potential / Needs Attention
+C0364,Government,Infrastructure,East,44,32,42733560,1335423.75,16.84,1.9,3,2,2,322,7,Potential / Needs Attention
+C0365,Government,Manufacturing,East,108,39,47362240,1214416.4102564105,6.96,5.6,1,4,3,143,8,Potential / Needs Attention
+C0366,Corporate,Logistics,East,67,26,34264010,1317846.5384615385,2.63,9.9,2,1,1,211,4,Lost / Low Value
+C0367,Fleet Owner,Logistics,South,58,27,45173860,1673105.9259259258,4.29,6.3,3,1,3,313,7,Potential / Needs Attention
+C0368,Fleet Owner,Construction,South,61,31,40673710,1312055.161290323,12.92,2.4,2,2,2,222,6,At Risk / Hibernating
+C0369,Government,Manufacturing,West,19,40,50690940,1267273.5,12.5,3.2,4,4,4,444,12,Loyal / High Value
+C0370,Corporate,Infrastructure,East,14,36,42286970,1174638.0555555555,8.37,4.3,5,3,2,532,10,Loyal / High Value
+C0371,Retail,Rental,South,60,47,64331600,1368757.4468085107,10.93,4.3,2,5,5,255,12,Loyal / High Value
+C0372,Government,Logistics,South,175,36,41513200,1153144.4444444445,10.0,3.6,1,3,2,132,6,At Risk / Hibernating
+C0373,Corporate,Manufacturing,South,121,38,54767460,1441248.9473684211,76.0,0.5,1,4,5,145,10,Loyal / High Value
+C0374,Corporate,Manufacturing,West,22,41,53669570,1309013.9024390243,4.32,9.5,4,5,4,454,13,Champions
+C0375,Fleet Owner,Mining,West,59,42,63738420,1517581.4285714286,5.12,8.2,3,5,5,355,13,Champions
+C0376,Retail,Construction,North,38,29,40903770,1410474.8275862068,15.26,1.9,3,1,2,312,6,At Risk / Hibernating
+C0377,Dealer,Logistics,West,25,37,53755340,1452847.027027027,5.29,7.0,4,4,4,444,12,Loyal / High Value
+C0378,Retail,Manufacturing,North,46,35,39739040,1135401.142857143,19.44,1.8,3,3,2,332,8,Potential / Needs Attention
+C0379,Retail,Mining,West,17,41,50443570,1230330.975609756,5.77,7.1,5,5,4,554,14,Champions
+C0380,Fleet Owner,Manufacturing,South,59,50,61154260,1223085.2,13.51,3.7,3,5,5,355,13,Champions
+C0381,Corporate,Mining,South,45,29,48585550,1675363.7931034483,3.33,8.7,3,1,4,314,8,Potential / Needs Attention
+C0382,Retail,Manufacturing,South,43,33,33715150,1021671.2121212122,22.0,1.5,3,2,1,321,6,At Risk / Hibernating
+C0383,Fleet Owner,Infrastructure,North,43,41,53480050,1304391.463414634,5.47,7.5,3,5,4,354,12,Loyal / High Value
+C0384,Retail,Construction,South,114,39,56692240,1453647.1794871795,7.09,5.5,1,4,5,145,10,Loyal / High Value
+C0385,Corporate,Manufacturing,West,100,37,52865670,1428801.8918918918,61.67,0.6,1,4,4,144,9,Potential / Needs Attention
+C0386,Retail,Construction,North,58,32,38385820,1199556.875,4.16,7.7,3,2,2,322,7,Potential / Needs Attention
+C0387,Dealer,Infrastructure,East,67,34,37034600,1089252.9411764706,11.33,3.0,2,3,1,231,6,At Risk / Hibernating
+C0388,Fleet Owner,Infrastructure,West,20,27,30890020,1144074.8148148148,5.87,4.6,4,1,1,411,6,At Risk / Hibernating
+C0389,Retail,Mining,West,37,30,38241650,1274721.6666666667,5.36,5.6,4,1,2,412,7,Potential / Needs Attention
+C0390,Fleet Owner,Construction,North,53,32,50314950,1572342.1875,45.71,0.7,3,2,4,324,9,Potential / Needs Attention
+C0391,Government,Construction,West,32,33,36944480,1119529.696969697,11.38,2.9,4,2,1,421,7,Potential / Needs Attention
+C0392,Fleet Owner,Logistics,East,20,31,30249660,975795.4838709678,3.13,9.9,4,2,1,421,7,Potential / Needs Attention
+C0393,Retail,Rental,East,14,39,40195010,1030641.282051282,6.84,5.7,5,4,2,542,11,Loyal / High Value
+C0394,Government,Construction,South,41,40,54868190,1371704.75,30.77,1.3,3,4,5,345,12,Loyal / High Value
+C0395,Corporate,Manufacturing,East,12,44,50643860,1150996.818181818,5.0,8.8,5,5,4,554,14,Champions
+C0396,Government,Manufacturing,West,25,38,50680080,1333686.3157894737,6.55,5.8,4,4,4,444,12,Loyal / High Value
+C0397,Fleet Owner,Mining,West,40,36,44216230,1228228.611111111,3.71,9.7,3,3,3,333,9,Potential / Needs Attention
+C0398,Government,Rental,South,30,35,45379170,1296547.7142857143,10.94,3.2,4,3,3,433,10,Loyal / High Value
+C0399,Fleet Owner,Rental,South,7,39,46532600,1193143.5897435895,3.9,10.0,5,4,3,543,12,Loyal / High Value
+C0400,Government,Infrastructure,North,70,35,40610020,1160286.2857142857,6.14,5.7,2,3,2,232,7,Potential / Needs Attention
+C0401,Government,Logistics,North East,68,36,45711960,1269776.6666666667,3.64,9.9,2,3,3,233,8,Potential / Needs Attention
+C0402,Fleet Owner,Rental,South,173,35,34212640,977504.0,5.15,6.8,1,3,1,131,5,At Risk / Hibernating
+C0403,Government,Construction,East,22,45,63236900,1405264.4444444445,7.14,6.3,4,5,5,455,14,Champions
+C0404,Government,Mining,West,6,31,36224330,1168526.7741935484,5.34,5.8,5,2,1,521,8,Potential / Needs Attention
+C0405,Corporate,Infrastructure,West,190,32,39790100,1243440.625,16.0,2.0,1,2,2,122,5,At Risk / Hibernating
+C0406,Dealer,Logistics,West,82,32,50826330,1588322.8125,53.33,0.6,2,2,4,224,8,Potential / Needs Attention
+C0407,Dealer,Logistics,South,7,38,42882880,1128496.8421052631,6.91,5.5,5,4,2,542,11,Loyal / High Value
+C0408,Government,Infrastructure,South,60,36,47201090,1311141.388888889,9.23,3.9,2,3,3,233,8,Potential / Needs Attention
+C0409,Government,Logistics,West,84,45,47755320,1061229.3333333333,23.68,1.9,2,5,4,254,11,Loyal / High Value
+C0410,Corporate,Mining,South,35,39,46906860,1202740.0,3.94,9.9,4,4,3,443,11,Loyal / High Value
+C0411,Corporate,Mining,South,20,43,56645350,1317333.720930233,13.44,3.2,4,5,5,455,14,Champions
+C0412,Corporate,Infrastructure,East,218,32,33987820,1062119.375,5.93,5.4,1,2,1,121,4,Lost / Low Value
+C0413,Fleet Owner,Manufacturing,South,54,41,48986230,1194786.0975609757,12.06,3.4,3,5,4,354,12,Loyal / High Value
+C0414,Dealer,Construction,South,1,40,52044170,1301104.25,5.19,7.7,5,4,4,544,13,Champions
+C0415,Government,Infrastructure,North East,82,33,53841670,1631565.7575757576,3.67,9.0,2,2,4,224,8,Potential / Needs Attention
+C0416,Dealer,Manufacturing,South,73,37,36145900,976916.2162162162,33.64,1.1,2,4,1,241,7,Potential / Needs Attention
+C0417,Fleet Owner,Mining,East,112,32,40806780,1275211.875,6.04,5.3,1,2,2,122,5,At Risk / Hibernating
+C0418,Government,Mining,West,48,30,37023670,1234122.3333333333,3.33,9.0,3,1,1,311,5,At Risk / Hibernating
+C0419,Fleet Owner,Logistics,West,93,31,48221790,1555541.6129032257,6.33,4.9,2,2,4,224,8,Potential / Needs Attention
+C0420,Retail,Rental,South,40,46,72545910,1577085.0,5.82,7.9,3,5,5,355,13,Champions
+C0421,Retail,Construction,South,194,38,54492210,1434005.5263157894,3.88,9.8,1,4,5,145,10,Loyal / High Value
+C0422,Government,Construction,South,58,37,51607190,1394788.9189189188,7.87,4.7,3,4,4,344,11,Loyal / High Value
+C0423,Dealer,Infrastructure,South,53,30,36819280,1227309.3333333333,3.66,8.2,3,1,1,311,5,At Risk / Hibernating
+C0424,Retail,Construction,West,100,35,45692330,1305495.142857143,5.22,6.7,1,3,3,133,7,Potential / Needs Attention
+C0425,Dealer,Manufacturing,South,23,41,53232320,1298349.268292683,4.1,10.0,4,5,4,454,13,Champions
+C0426,Dealer,Infrastructure,North East,29,35,44884200,1282405.7142857143,8.97,3.9,4,3,3,433,10,Loyal / High Value
+C0427,Corporate,Mining,West,36,41,41731940,1017852.1951219512,5.19,7.9,4,5,2,452,11,Loyal / High Value
+C0428,Retail,Construction,North,128,43,52052170,1210515.5813953488,14.33,3.0,1,5,4,154,10,Loyal / High Value
+C0429,Fleet Owner,Logistics,West,72,42,54510440,1297867.619047619,18.26,2.3,2,5,5,255,12,Loyal / High Value
+C0430,Retail,Manufacturing,West,82,27,35197560,1303613.3333333333,3.1,8.7,2,1,1,211,4,Lost / Low Value
+C0431,Government,Logistics,West,180,28,35920190,1282863.9285714286,8.24,3.4,1,1,1,111,3,Lost / Low Value
+C0432,Fleet Owner,Mining,South,89,37,38717560,1046420.5405405406,9.25,4.0,2,4,2,242,8,Potential / Needs Attention
+C0433,Dealer,Infrastructure,North,219,31,44764880,1444028.3870967743,6.33,4.9,1,2,3,123,6,At Risk / Hibernating
+C0434,Corporate,Mining,Central,67,33,42768890,1296026.9696969695,7.86,4.2,2,2,2,222,6,At Risk / Hibernating
+C0435,Dealer,Manufacturing,South,61,50,57957990,1159159.8,13.89,3.6,2,5,5,255,12,Loyal / High Value
+C0436,Fleet Owner,Logistics,East,17,34,45357190,1334035.0,7.73,4.4,5,3,3,533,11,Loyal / High Value
+C0437,Dealer,Mining,West,11,30,36305140,1210171.3333333333,30.0,1.0,5,1,1,511,7,Potential / Needs Attention
+C0438,Corporate,Rental,East,122,39,48432400,1241856.4102564105,11.82,3.3,1,4,4,144,9,Potential / Needs Attention
+C0439,Dealer,Construction,South,10,36,37351400,1037538.8888888888,5.14,7.0,5,3,2,532,10,Loyal / High Value
+C0440,Retail,Manufacturing,South,72,44,64680520,1470011.818181818,11.89,3.7,2,5,5,255,12,Loyal / High Value
+C0441,Dealer,Construction,North,74,31,37017660,1194118.064516129,3.6,8.6,2,2,1,221,5,At Risk / Hibernating
+C0442,Dealer,Logistics,East,73,33,41966020,1271697.5757575757,4.52,7.3,2,2,2,222,6,At Risk / Hibernating
+C0443,Dealer,Infrastructure,East,44,40,50982660,1274566.5,14.81,2.7,3,4,4,344,11,Loyal / High Value
+C0444,Dealer,Manufacturing,South,359,30,39970050,1332335.0,12.5,2.4,1,1,2,112,4,Lost / Low Value
+C0445,Government,Mining,East,4,28,44860580,1602163.5714285714,28.0,1.0,5,1,3,513,9,Potential / Needs Attention
+C0446,Retail,Logistics,South,77,34,40839770,1201169.705882353,6.42,5.3,2,3,2,232,7,Potential / Needs Attention
+C0447,Fleet Owner,Rental,East,9,33,48124660,1458323.0303030305,6.88,4.8,5,2,4,524,11,Loyal / High Value
+C0448,Fleet Owner,Logistics,East,21,36,53706280,1491841.111111111,5.54,6.5,4,3,4,434,11,Loyal / High Value
+C0449,Fleet Owner,Logistics,West,43,32,43705510,1365797.1875,16.0,2.0,3,2,3,323,8,Potential / Needs Attention
+C0450,Fleet Owner,Construction,East,111,38,43401530,1142145.5263157894,4.22,9.0,1,4,3,143,8,Potential / Needs Attention
+C0451,Government,Manufacturing,East,179,37,38981780,1053561.6216216215,11.94,3.1,1,4,2,142,7,Potential / Needs Attention
+C0452,Fleet Owner,Mining,South,5,35,31479440,899412.5714285715,5.56,6.3,5,3,1,531,9,Potential / Needs Attention
+C0453,Dealer,Mining,East,31,31,46607160,1503456.7741935484,4.19,7.4,4,2,3,423,9,Potential / Needs Attention
+C0454,Government,Mining,West,48,33,32847670,995383.9393939396,5.32,6.2,3,2,1,321,6,At Risk / Hibernating
+C0455,Retail,Logistics,Central,35,35,49656280,1418750.857142857,5.56,6.3,4,3,4,434,11,Loyal / High Value
+C0456,Corporate,Mining,North,77,27,24747800,916585.1851851852,2.73,9.9,2,1,1,211,4,Lost / Low Value
+C0457,Retail,Manufacturing,East,47,33,44351780,1343993.3333333333,4.46,7.4,3,2,3,323,8,Potential / Needs Attention
+C0458,Dealer,Manufacturing,West,4,38,39941170,1051083.4210526317,17.27,2.2,5,4,2,542,11,Loyal / High Value
+C0459,Retail,Logistics,East,18,41,56361360,1374667.3170731708,8.2,5.0,4,5,5,455,14,Champions
+C0460,Dealer,Logistics,South,37,32,50664330,1583260.3125,17.78,1.8,4,2,4,424,10,Loyal / High Value
+C0461,Corporate,Infrastructure,North,62,36,44543940,1237331.6666666667,5.22,6.9,2,3,3,233,8,Potential / Needs Attention
+C0462,Retail,Logistics,South,49,49,64949220,1325494.2857142857,5.16,9.5,3,5,5,355,13,Champions
+C0463,Dealer,Mining,West,132,35,43452000,1241485.7142857143,26.92,1.3,1,3,3,133,7,Potential / Needs Attention
+C0464,Corporate,Infrastructure,North,110,38,52908510,1392329.2105263155,27.14,1.4,1,4,4,144,9,Potential / Needs Attention
+C0465,Fleet Owner,Mining,South,20,35,37783870,1079539.142857143,10.94,3.2,4,3,2,432,9,Potential / Needs Attention
+C0466,Retail,Manufacturing,South,19,47,69276730,1473972.9787234042,7.83,6.0,4,5,5,455,14,Champions
+C0467,Retail,Construction,North,56,48,49361930,1028373.5416666666,36.92,1.3,3,5,4,354,12,Loyal / High Value
+C0468,Fleet Owner,Rental,South,52,49,59022070,1204532.0408163266,8.91,5.5,3,5,5,355,13,Champions
+C0469,Government,Manufacturing,North,14,40,53714930,1342873.25,5.26,7.6,5,4,4,544,13,Champions
+C0470,Government,Mining,South,96,36,38599240,1072201.111111111,4.19,8.6,2,3,2,232,7,Potential / Needs Attention
+C0471,Fleet Owner,Logistics,West,35,37,51389940,1388917.2972972973,4.68,7.9,4,4,4,444,12,Loyal / High Value
+C0472,Dealer,Manufacturing,South,39,34,43087580,1267281.7647058824,8.1,4.2,3,3,3,333,9,Potential / Needs Attention
+C0473,Government,Rental,South,47,26,32922260,1266240.7692307692,4.48,5.8,3,1,1,311,5,At Risk / Hibernating
+C0474,Government,Logistics,West,55,30,37863700,1262123.3333333333,14.29,2.1,3,1,2,312,6,At Risk / Hibernating
+C0475,Fleet Owner,Construction,East,14,55,74442140,1353493.4545454546,28.95,1.9,5,5,5,555,15,Champions
+C0476,Fleet Owner,Infrastructure,North,94,34,57777740,1699345.294117647,10.3,3.3,2,3,5,235,10,Loyal / High Value
+C0477,Government,Construction,West,80,36,45286770,1257965.8333333333,9.0,4.0,2,3,3,233,8,Potential / Needs Attention
+C0478,Retail,Rental,North,3,44,59528290,1352915.681818182,8.0,5.5,5,5,5,555,15,Champions
+C0479,Retail,Construction,West,85,26,29592950,1138190.3846153845,6.19,4.2,2,1,1,211,4,Lost / Low Value
+C0480,Government,Infrastructure,West,38,34,38076520,1119897.6470588236,4.47,7.6,3,3,2,332,8,Potential / Needs Attention
+C0481,Corporate,Logistics,South,1,39,47455190,1216799.7435897435,4.59,8.5,5,4,3,543,12,Loyal / High Value
+C0482,Fleet Owner,Logistics,East,29,31,57846740,1866023.8709677416,4.7,6.6,4,2,5,425,11,Loyal / High Value
+C0483,Corporate,Rental,North,14,47,75352940,1603254.0425531915,7.58,6.2,5,5,5,555,15,Champions
+C0484,Fleet Owner,Mining,West,52,27,37883370,1403087.7777777778,5.0,5.4,3,1,2,312,6,At Risk / Hibernating
+C0485,Fleet Owner,Rental,West,92,28,46389160,1656755.7142857143,70.0,0.4,2,1,3,213,6,At Risk / Hibernating
+C0486,Government,Manufacturing,West,86,34,41350080,1216178.8235294118,4.05,8.4,2,3,2,232,7,Potential / Needs Attention
+C0487,Dealer,Mining,South,289,26,31063950,1194767.3076923075,2.77,9.4,1,1,1,111,3,Lost / Low Value
+C0488,Government,Construction,South,36,37,52826960,1427755.6756756755,5.07,7.3,4,4,4,444,12,Loyal / High Value
+C0489,Fleet Owner,Rental,South,137,47,55400350,1178730.8510638298,8.1,5.8,1,5,5,155,11,Loyal / High Value
+C0490,Government,Logistics,West,3,44,66510660,1511605.9090909092,14.67,3.0,5,5,5,555,15,Champions
+C0491,Dealer,Infrastructure,South,181,27,51140830,1894104.8148148148,2.97,9.1,1,1,4,114,6,At Risk / Hibernating
+C0492,Dealer,Rental,East,57,35,48527140,1386489.7142857143,10.29,3.4,3,3,4,334,10,Loyal / High Value
+C0493,Retail,Construction,South,40,38,42934640,1129858.9473684211,4.13,9.2,3,4,3,343,10,Loyal / High Value
+C0494,Corporate,Construction,East,34,32,37868420,1183388.125,5.08,6.3,4,2,2,422,8,Potential / Needs Attention
+C0495,Fleet Owner,Infrastructure,North,37,48,74165320,1545110.8333333333,16.0,3.0,4,5,5,455,14,Champions
+C0496,Government,Infrastructure,East,5,37,37818650,1022125.6756756756,5.97,6.2,5,4,2,542,11,Loyal / High Value
+C0497,Government,Logistics,South,60,30,40341140,1344704.6666666667,12.0,2.5,2,1,2,212,5,At Risk / Hibernating
+C0498,Fleet Owner,Construction,East,135,28,50845460,1815909.2857142857,3.54,7.9,1,1,4,114,6,At Risk / Hibernating
+C0499,Corporate,Construction,East,33,39,49218150,1262003.8461538462,390.0,0.1,4,4,4,444,12,Loyal / High Value
+C0500,Corporate,Infrastructure,East,25,27,34912870,1293069.259259259,18.0,1.5,4,1,1,411,6,At Risk / Hibernating

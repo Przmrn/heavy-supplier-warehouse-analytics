@@ -1,5 +1,5 @@
-# Week 3 Sprint Notes (Draft - confirm before submission)
-
+# Week 3 Sprint Notes
+  
 ## Scrum Master
 Golla Bhumika
 

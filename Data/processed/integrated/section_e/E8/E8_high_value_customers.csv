@@ -1,0 +1,224 @@
+customer_id,customer_type,region,industry_segment,total_revenue,total_orders,recency_days,orders_per_year,RFM_segment,R_score,F_score,M_score,predicted_clv_3yr,historical_clv,clv_rank,clv_band,is_high_value
+C0134,Fleet Owner,West,Infrastructure,66943890,48,38,96.0,Champions,3,5,5,85660020.0,14276670,1,CLV Q5 (Highest),True
+C0201,Dealer,South,Infrastructure,63133600,47,19,235.0,Champions,4,5,5,81391440.0,13565240,2,CLV Q5 (Highest),True
+C0197,Government,West,Manufacturing,60798070,47,75,94.0,Loyal / High Value,2,5,5,78711420.0,13118570,3,CLV Q5 (Highest),True
+C0246,Retail,North,Manufacturing,60399770,35,60,70.0,Loyal / High Value,2,3,5,76123800.0,12687300,4,CLV Q5 (Highest),True
+C0250,Government,East,Infrastructure,58330380,43,12,107.5,Champions,5,5,5,75632820.0,12605470,5,CLV Q5 (Highest),True
+C0272,Government,North,Construction,59253070,39,19,195.0,Champions,4,4,5,74575800.0,12429300,6,CLV Q5 (Highest),True
+C0373,Corporate,South,Manufacturing,54767460,38,121,76.0,Loyal / High Value,1,4,5,69811320.0,11635220,7,CLV Q5 (Highest),True
+C0141,Corporate,West,Rental,51926540,36,47,90.0,Loyal / High Value,3,3,4,66118980.0,11019830,8,CLV Q5 (Highest),True
+C0302,Fleet Owner,West,Mining,49894150,36,8,90.0,Loyal / High Value,5,3,4,63923460.0,10653910,9,CLV Q5 (Highest),True
+C0499,Corporate,East,Construction,49218150,39,33,390.0,Loyal / High Value,4,4,4,63859740.0,10643290,10,CLV Q5 (Highest),True
+C0146,Retail,West,Mining,48058590,30,1,60.0,Loyal / High Value,5,1,4,62852640.0,10475440,11,CLV Q5 (Highest),True
+C0054,Fleet Owner,South,Manufacturing,49743760,37,18,185.0,Loyal / High Value,4,3,4,62135700.0,10355950,12,CLV Q5 (Highest),True
+C0024,Dealer,South,Rental,47587690,44,106,146.67,Loyal / High Value,1,5,4,61967820.0,10327970,13,CLV Q5 (Highest),True
+C0219,Government,West,Manufacturing,47075000,39,11,130.0,Loyal / High Value,5,4,3,60833640.0,10138940,14,CLV Q5 (Highest),True
+C0485,Fleet Owner,West,Rental,46389160,28,92,70.0,At Risk / Hibernating,2,1,3,58942380.0,9823730,15,CLV Q5 (Highest),True
+C0385,Corporate,West,Manufacturing,52865670,37,100,61.67,Potential / Needs Attention,1,4,4,57646500.0,11529300,16,CLV Q5 (Highest),True
+C0050,Dealer,East,Mining,44016360,27,18,90.0,Potential / Needs Attention,4,1,3,55565040.0,9260840,17,CLV Q5 (Highest),True
+C0066,Retail,Central,Manufacturing,42371560,32,82,160.0,At Risk / Hibernating,2,2,2,55341240.0,9223540,18,CLV Q5 (Highest),True
+C0406,Dealer,West,Logistics,50826330,32,82,53.33,Potential / Needs Attention,2,2,4,53007999.0,10601600,19,CLV Q5 (Highest),True
+C0348,Retail,North,Logistics,39978280,34,69,68.0,Potential / Needs Attention,2,3,2,52934040.0,8822340,20,CLV Q5 (Highest),True
+C0075,Retail,South,Mining,39435130,33,73,110.0,At Risk / Hibernating,2,2,2,52530300.0,8755050,21,CLV Q5 (Highest),True
+C0120,Fleet Owner,South,Construction,39523350,34,47,340.0,Potential / Needs Attention,3,2,2,52291740.0,8715290,22,CLV Q5 (Highest),True
+C0289,Corporate,South,Logistics,39396940,35,64,116.67,Potential / Needs Attention,2,3,2,52122780.0,8687130,23,CLV Q5 (Highest),True
+C0226,Dealer,West,Logistics,36902950,26,95,130.0,Lost / Low Value,2,1,1,48293100.0,8048850,24,CLV Q5 (Highest),True
+C0079,Retail,North,Rental,36993090,31,34,31.0,At Risk / Hibernating,4,1,1,48060000.0,8010000,25,CLV Q5 (Highest),True
+C0316,Dealer,East,Manufacturing,35655050,33,101,110.0,Lost / Low Value,1,2,1,46931820.0,7821970,26,CLV Q5 (Highest),True
+C0194,Fleet Owner,South,Construction,37787710,33,6,110.0,Potential / Needs Attention,5,2,2,46928820.0,7821470,27,CLV Q5 (Highest),True
+C0390,Fleet Owner,North,Construction,50314950,32,53,45.71,Potential / Needs Attention,3,2,4,46292529.0,10801590,28,CLV Q5 (Highest),True
+C0212,Retail,North East,Infrastructure,35519950,31,131,310.0,Lost / Low Value,1,2,1,45465600.0,7577600,29,CLV Q5 (Highest),True
+C0356,Dealer,East,Mining,62479450,45,27,50.0,Champions,4,5,5,44770767.0,13431230,30,CLV Q5 (Highest),True
+C0276,Dealer,Central,Manufacturing,52803770,44,3,55.0,Champions,5,5,4,42839136.0,11423770,31,CLV Q5 (Highest),True
+C0182,Dealer,East,Infrastructure,32105700,29,151,72.5,Lost / Low Value,1,1,1,42342720.0,7057120,32,CLV Q5 (Highest),True
+C0195,Fleet Owner,East,Logistics,44526020,31,4,44.29,Loyal / High Value,5,2,3,40742100.0,9506490,33,CLV Q5 (Highest),True
+C0001,Retail,East,Construction,43201680,34,47,48.57,Potential / Needs Attention,3,2,3,39785313.0,9283240,34,CLV Q5 (Highest),True
+C0096,Corporate,South,Construction,40828880,34,2,48.57,Potential / Needs Attention,5,2,2,37689900.0,8794310,35,CLV Q5 (Highest),True
+C0172,Dealer,South,Manufacturing,44967390,37,35,46.25,Loyal / High Value,4,4,3,36082275.0,9621940,36,CLV Q5 (Highest),True
+C0122,Dealer,North East,Rental,37712330,31,57,44.29,At Risk / Hibernating,3,1,2,35347587.0,8247770,37,CLV Q5 (Highest),True
+C0342,Dealer,North,Infrastructure,57066210,36,84,32.73,Loyal / High Value,2,3,5,33742227.0,12372150,38,CLV Q5 (Highest),True
+C0264,Retail,West,Infrastructure,52753710,36,60,36.0,Potential / Needs Attention,2,3,4,33579750.0,11193250,39,CLV Q5 (Highest),True
+C0025,Corporate,West,Infrastructure,55220350,38,136,34.55,Loyal / High Value,1,4,5,32775246.0,12017590,40,CLV Q5 (Highest),True
+C0244,Government,North,Logistics,60886580,44,23,36.67,Champions,4,5,5,32571249.0,13028500,41,CLV Q5 (Highest),True
+C0019,Government,East,Logistics,33389880,37,22,52.86,Potential / Needs Attention,4,3,1,31359600.0,7317240,42,CLV Q5 (Highest),True
+C0222,Fleet Owner,North,Logistics,44904020,41,19,41.0,Loyal / High Value,4,4,3,29191260.0,9730420,43,CLV Q5 (Highest),True
+C0088,Corporate,West,Infrastructure,44991010,36,148,36.0,Potential / Needs Attention,1,3,3,28844040.0,9614680,44,CLV Q5 (Highest),True
+C0445,Government,East,Mining,44860580,28,4,28.0,Potential / Needs Attention,5,1,3,28147320.0,9382440,45,CLV Q5 (Highest),True
+C0312,Government,West,Construction,51311620,37,45,30.83,Loyal / High Value,3,4,4,27644874.0,11057950,46,CLV Q5 (Highest),True
+C0394,Government,South,Construction,54868190,40,41,30.77,Loyal / High Value,3,4,5,27303786.0,11831640,47,CLV Q5 (Highest),True
+C0005,Dealer,West,Construction,58882280,45,89,32.14,Loyal / High Value,2,5,5,27065829.0,12630720,48,CLV Q5 (Highest),True
+C0192,Fleet Owner,East,Logistics,54295880,40,125,30.77,Potential / Needs Attention,1,4,4,26816145.0,11620330,49,CLV Q5 (Highest),True
+C0292,Corporate,Central,Rental,24356960,27,248,45.0,Lost / Low Value,1,1,1,26363751.0,5272750,50,CLV Q5 (Highest),True
+C0357,Corporate,West,Mining,45252290,28,45,25.45,Potential / Needs Attention,3,1,3,25868781.0,9485220,51,CLV Q5 (Highest),True
+C0252,Retail,South,Construction,35584220,34,86,37.78,At Risk / Hibernating,2,3,1,25834599.0,7750380,52,CLV Q5 (Highest),True
+C0110,Dealer,Central,Logistics,71230450,42,194,23.33,Loyal / High Value,1,5,5,25617234.0,15370340,53,CLV Q5 (Highest),True
+C0475,Fleet Owner,East,Construction,74442140,55,14,28.95,Champions,5,5,5,25227252.0,15977260,54,CLV Q5 (Highest),True
+C0117,Government,North East,Mining,30628680,31,142,38.75,Lost / Low Value,1,1,1,24989250.0,6663800,55,CLV Q5 (Highest),True
+C0467,Retail,North,Construction,49361930,48,56,36.92,Loyal / High Value,3,5,4,24938307.0,10806600,56,CLV Q5 (Highest),True
+C0255,Retail,South,Infrastructure,55876690,45,51,30.0,Champions,3,5,5,24577740.0,12288870,57,CLV Q5 (Highest),True
+C0464,Corporate,North,Infrastructure,52908510,38,110,27.14,Potential / Needs Attention,1,4,4,24402063.0,11387630,58,CLV Q5 (Highest),True
+C0231,Government,West,Infrastructure,40582530,32,54,29.09,Potential / Needs Attention,3,2,2,23984292.0,8794240,59,CLV Q5 (Highest),True
+C0437,Dealer,West,Mining,36305140,30,11,30.0,Potential / Needs Attention,5,1,1,23493600.0,7831200,60,CLV Q5 (Highest),True
+C0301,Dealer,East,Mining,50074420,46,13,32.86,Champions,5,5,4,23233479.0,10842290,61,CLV Q5 (Highest),True
+C0233,Government,East,Logistics,39173800,28,72,25.45,At Risk / Hibernating,2,1,2,22964427.0,8420290,62,CLV Q5 (Highest),True
+C0256,Corporate,North East,Infrastructure,46110780,30,104,23.08,At Risk / Hibernating,1,1,3,22898355.0,9922620,63,CLV Q5 (Highest),True
+C0106,Dealer,Central,Infrastructure,45839560,39,50,30.0,Loyal / High Value,3,4,3,22863669.0,9907590,64,CLV Q5 (Highest),True
+C0049,Dealer,South,Manufacturing,64589840,39,7,21.67,Champions,5,4,5,22715499.0,13629300,65,CLV Q5 (Highest),True
+C0145,Retail,West,Construction,27079080,33,3,41.25,Potential / Needs Attention,5,2,1,22285236.0,5942730,66,CLV Q5 (Highest),True
+C0142,Retail,West,Manufacturing,66580100,45,24,23.68,Champions,4,5,5,22271889.0,14105530,67,CLV Q5 (Highest),True
+C0463,Dealer,West,Mining,43452000,35,132,26.92,Potential / Needs Attention,1,3,3,22036386.0,9549100,68,CLV Q5 (Highest),True
+C0416,Dealer,South,Manufacturing,36145900,37,73,33.64,Potential / Needs Attention,2,4,1,21740046.0,7971350,69,CLV Q5 (Highest),True
+C0315,Dealer,West,Rental,48208830,40,15,26.67,Champions,5,4,4,21382599.0,10691300,70,CLV Q5 (Highest),True
+C0281,Government,South,Logistics,36333020,26,190,23.64,Lost / Low Value,1,1,1,21359373.0,7831770,71,CLV Q5 (Highest),True
+C0354,Corporate,South,Logistics,44585860,37,7,24.67,Loyal / High Value,5,4,3,19509861.0,9754930,72,CLV Q5 (Highest),True
+C0184,Retail,South,Rental,48287230,29,34,18.12,Potential / Needs Attention,4,1,4,19060614.0,10165660,73,CLV Q5 (Highest),True
+C0053,Fleet Owner,North,Construction,35369930,27,105,22.5,Lost / Low Value,1,1,1,18734700.0,7493880,74,CLV Q5 (Highest),True
+C0070,Government,West,Logistics,60254230,41,12,19.52,Champions,5,4,5,18411615.0,12888130,75,CLV Q5 (Highest),True
+C0091,Retail,South,Construction,30689510,30,116,27.27,Lost / Low Value,1,1,1,18405873.0,6748820,76,CLV Q5 (Highest),True
+C0460,Dealer,South,Logistics,50664330,32,37,17.78,Loyal / High Value,4,2,4,18261933.0,10957160,77,CLV Q5 (Highest),True
+C0095,Fleet Owner,West,Logistics,43640740,29,6,18.12,Potential / Needs Attention,5,1,3,17501664.0,9334220,78,CLV Q5 (Highest),True
+C0258,Corporate,South,Mining,48830880,28,83,14.74,Potential / Needs Attention,2,1,4,16624296.0,10528720,79,CLV Q5 (Highest),True
+C0409,Government,West,Logistics,47755320,45,84,23.68,Loyal / High Value,2,5,4,16307163.0,10327870,80,CLV Q5 (Highest),True
+C0168,Dealer,West,Infrastructure,50309900,34,14,17.0,Loyal / High Value,5,2,4,16197825.0,10798550,81,CLV Q5 (Highest),True
+C0062,Dealer,South,Construction,61918150,36,62,14.4,Loyal / High Value,2,3,5,15921180.0,13267650,82,CLV Q5 (Highest),True
+C0029,Dealer,South,Construction,45653420,38,185,20.0,Potential / Needs Attention,1,4,3,15858078.0,10043450,83,CLV Q5 (Highest),True
+C0216,Government,East,Mining,48655520,39,42,19.5,Loyal / High Value,3,4,4,15823125.0,10548750,84,CLV Q5 (Highest),True
+C0495,Fleet Owner,North,Infrastructure,74165320,48,37,16.0,Champions,4,5,5,15761619.0,15761620,85,CLV Q5 (Highest),True
+C0306,Fleet Owner,East,Manufacturing,54784400,42,16,19.09,Champions,5,5,5,15587208.0,11430620,86,CLV Q5 (Highest),True
+C0500,Corporate,East,Infrastructure,34912870,27,25,18.0,At Risk / Hibernating,4,1,1,15309180.0,7654590,87,CLV Q5 (Highest),True
+C0382,Retail,South,Manufacturing,33715150,33,43,22.0,At Risk / Hibernating,3,2,1,15183579.0,7591790,88,CLV Q5 (Highest),True
+C0152,Corporate,South,Manufacturing,48907690,40,44,19.05,Loyal / High Value,3,4,4,15044472.0,10531130,89,CLV Q5 (Highest),True
+C0139,Government,West,Mining,29295750,29,62,22.31,Lost / Low Value,2,1,1,14965107.0,6484880,90,CLV Q5 (Highest),True
+C0429,Fleet Owner,West,Logistics,54510440,42,72,18.26,Loyal / High Value,2,5,5,14911788.0,11432370,91,CLV Q5 (Highest),True
+C0275,Fleet Owner,West,Construction,50445750,45,56,20.45,Loyal / High Value,3,5,4,14891727.0,10920600,92,CLV Q5 (Highest),True
+C0364,Government,East,Infrastructure,42733560,32,44,16.84,Potential / Needs Attention,3,2,2,14778078.0,9359450,93,CLV Q5 (Highest),True
+C0490,Government,West,Logistics,66510660,44,3,14.67,Champions,5,5,5,14394540.0,14394540,94,CLV Q5 (Highest),True
+C0378,Retail,North,Manufacturing,39739040,35,46,19.44,Potential / Needs Attention,3,3,2,14298984.0,8579390,95,CLV Q5 (Highest),True
+C0239,Government,South,Logistics,35255050,32,66,20.0,At Risk / Hibernating,2,2,1,14156364.0,7550060,96,CLV Q5 (Highest),True
+C0376,Retail,North,Construction,40903770,29,38,15.26,At Risk / Hibernating,3,1,2,14086122.0,8921210,97,CLV Q5 (Highest),True
+C0160,Retail,West,Rental,55534390,44,39,17.6,Champions,3,5,5,14035884.0,11696570,98,CLV Q5 (Highest),True
+C0449,Fleet Owner,West,Logistics,43705510,32,43,16.0,Potential / Needs Attention,3,2,3,13933335.0,9288890,99,CLV Q5 (Highest),True
+C0355,Government,South,Infrastructure,46214030,32,14,15.24,Loyal / High Value,5,2,3,13904358.0,9733050,100,CLV Q5 (Highest),True
+C0273,Dealer,East,Manufacturing,47764950,37,1,16.82,Champions,5,4,4,13883373.0,10181140,101,CLV Q4,True
+C0076,Government,South,Mining,62759940,45,87,15.52,Loyal / High Value,2,5,5,13706016.0,13249150,104,CLV Q4,True
+C0056,Dealer,North,Mining,47730860,36,52,15.65,Loyal / High Value,3,3,4,13250649.0,10158830,107,CLV Q4,True
+C0082,Fleet Owner,West,Manufacturing,60929520,46,14,15.33,Champions,5,5,5,13012020.0,13012020,108,CLV Q4,True
+C0340,Government,South,Mining,49824870,35,28,13.46,Loyal / High Value,4,3,4,12293445.0,10654320,116,CLV Q4,True
+C0002,Fleet Owner,South,Manufacturing,56261100,51,116,17.0,Loyal / High Value,1,5,5,12283200.0,12283200,117,CLV Q4,True
+C0443,Dealer,East,Infrastructure,50982660,40,44,14.81,Loyal / High Value,3,4,4,12068733.0,10861860,118,CLV Q4,True
+C0069,Dealer,North,Logistics,60517360,47,21,14.24,Champions,4,5,5,11863935.0,13050330,120,CLV Q4,True
+C0206,Retail,West,Construction,70279540,40,21,10.53,Champions,4,4,5,11712576.0,14835930,122,CLV Q4,True
+C0084,Corporate,West,Logistics,57484480,39,101,12.19,Loyal / High Value,1,4,5,11274093.0,12025700,126,CLV Q4,True
+C0440,Retail,South,Manufacturing,64680520,44,72,11.89,Loyal / High Value,2,5,5,11245776.0,13869790,127,CLV Q4,True
+C0428,Retail,North,Construction,52052170,43,128,14.33,Loyal / High Value,1,5,4,11211819.0,11211820,128,CLV Q4,True
+C0411,Corporate,South,Mining,56645350,43,20,13.44,Champions,4,5,5,11099064.0,11839000,129,CLV Q4,True
+C0161,Dealer,West,Mining,47774340,37,45,13.21,Loyal / High Value,3,3,4,11037150.0,10301340,131,CLV Q4,True
+C0476,Fleet Owner,North,Infrastructure,57777740,34,94,10.3,Loyal / High Value,2,3,5,10927674.0,12020440,134,CLV Q4,True
+C0207,Corporate,East,Rental,68312200,45,80,11.25,Loyal / High Value,2,5,5,10793430.0,14391240,136,CLV Q4,True
+C0380,Fleet Owner,South,Manufacturing,61154260,50,59,13.51,Champions,3,5,5,10754766.0,13264210,137,CLV Q4,True
+C0435,Dealer,South,Manufacturing,57957990,50,61,13.89,Loyal / High Value,2,5,5,10526274.0,12631530,142,CLV Q4,True
+C0369,Government,West,Manufacturing,50690940,40,19,12.5,Loyal / High Value,4,4,4,10239564.0,10922200,145,CLV Q4,True
+C0013,Dealer,West,Construction,60328180,44,66,11.58,Loyal / High Value,2,5,5,10136565.0,12839650,147,CLV Q4,True
+C0196,Fleet Owner,North East,Rental,55921870,48,65,13.33,Loyal / High Value,2,5,5,10057293.0,12068750,148,CLV Q4,True
+C0128,Retail,West,Mining,54226840,33,14,9.71,Loyal / High Value,5,2,4,9998313.0,11331420,151,CLV Q4,True
+C0209,Corporate,East,Infrastructure,51373630,44,40,12.94,Loyal / High Value,3,5,4,9739914.0,11038570,157,CLV Q4,True
+C0016,Government,East,Rental,55572340,35,14,9.46,Champions,5,3,5,9634866.0,11883000,158,CLV Q4,True
+C0371,Retail,South,Rental,64331600,47,60,10.93,Loyal / High Value,2,5,5,9621963.0,13791480,159,CLV Q4,True
+C0240,Corporate,South,Manufacturing,72778580,46,52,9.39,Champions,3,5,5,9515187.0,15541470,162,CLV Q4,True
+C0413,Fleet Owner,South,Manufacturing,48986230,41,54,12.06,Loyal / High Value,3,5,4,9491586.0,10757130,164,CLV Q4,True
+C0329,Dealer,Central,Infrastructure,50414010,36,6,10.59,Loyal / High Value,5,3,4,9461532.0,10723070,166,CLV Q4,True
+C0492,Dealer,East,Rental,48527140,35,57,10.29,Loyal / High Value,3,3,4,9311409.0,10552930,168,CLV Q4,True
+C0282,Government,East,Logistics,54475470,44,8,11.28,Champions,5,5,5,9135000.0,11875500,169,CLV Q4,True
+C0291,Retail,South,Construction,61983900,46,29,9.79,Champions,4,5,5,8491680.0,13303630,175,CLV Q4,True
+C0101,Corporate,South,Logistics,49185770,38,83,9.74,Loyal / High Value,2,4,4,8330670.0,10829870,179,CLV Q4,True
+C0253,Retail,West,Rental,57279120,39,35,8.67,Champions,4,4,5,8277813.0,12416720,181,CLV Q4,True
+C0359,Fleet Owner,South,Mining,67221300,46,34,8.68,Champions,4,5,5,8232396.0,14543900,184,CLV Q4,True
+C0221,Dealer,North,Logistics,64336800,44,118,8.8,Loyal / High Value,1,5,5,8112450.0,13520750,185,CLV Q4,True
+C0113,Corporate,South,Logistics,61701750,41,9,8.37,Champions,5,4,5,7959576.0,13000640,189,CLV Q4,True
+C0483,Corporate,North,Rental,75352940,47,14,7.58,Champions,5,5,5,7674987.0,15861640,192,CLV Q4,True
+C0153,Retail,East,Rental,84966970,56,20,7.67,Champions,4,5,5,7470852.0,18179070,197,CLV Q4,True
+C0466,Retail,South,Manufacturing,69276730,47,19,7.83,Champions,4,5,5,7341660.0,14683320,202,CLV Q3,True
+C0459,Retail,East,Logistics,56361360,41,18,8.2,Champions,4,5,5,7215948.0,12026580,206,CLV Q3,True
+C0254,Dealer,West,Mining,70227620,48,98,7.62,Loyal / High Value,2,5,5,7137186.0,14988090,209,CLV Q3,True
+C0422,Government,South,Construction,51607190,37,58,7.87,Loyal / High Value,3,4,4,6963933.0,10910160,214,CLV Q3,True
+C0478,Retail,North,Rental,59528290,44,3,8.0,Champions,5,5,5,6959808.0,12759650,215,CLV Q3,True
+C0083,Dealer,North,Infrastructure,70378740,45,89,7.03,Loyal / High Value,2,5,5,6956841.0,14841260,216,CLV Q3,True
+C0257,Corporate,North,Logistics,59812600,43,9,7.68,Champions,5,5,5,6949002.0,12971470,217,CLV Q3,True
+C0468,Fleet Owner,South,Rental,59022070,49,52,8.91,Champions,3,5,5,6904014.0,12657360,219,CLV Q3,True
+C0217,Corporate,North,Infrastructure,48179740,36,14,8.18,Loyal / High Value,5,3,4,6852300.0,10050040,223,CLV Q3,True
+C0149,Government,West,Manufacturing,51241680,38,20,8.09,Loyal / High Value,4,4,4,6835188.0,10708460,224,CLV Q3,True
+C0123,Corporate,East,Infrastructure,54900300,36,58,6.92,Loyal / High Value,3,3,5,6784980.0,11760630,226,CLV Q3,True
+C0107,Fleet Owner,North,Construction,66825070,49,21,7.54,Champions,4,5,5,6717300.0,14554150,230,CLV Q3,True
+C0294,Government,South,Infrastructure,62587650,45,5,7.26,Champions,5,5,5,6672528.0,13789890,232,CLV Q3,True
+C0165,Fleet Owner,North,Manufacturing,62168180,50,8,7.94,Champions,5,5,5,6544596.0,13743650,234,CLV Q3,True
+C0384,Retail,South,Construction,56692240,39,114,7.09,Loyal / High Value,1,4,5,6516345.0,11946630,235,CLV Q3,True
+C0403,Government,East,Construction,63236900,45,22,7.14,Champions,4,5,5,6510063.0,13671130,236,CLV Q3,True
+C0447,Fleet Owner,East,Rental,48124660,33,9,6.88,Loyal / High Value,5,2,4,6498168.0,10397070,237,CLV Q3,True
+C0489,Fleet Owner,South,Rental,55400350,47,137,8.1,Loyal / High Value,1,5,5,6280842.0,12142960,247,CLV Q3,True
+C0046,Retail,West,Rental,68236200,46,23,6.57,Champions,4,5,5,6236592.0,14552050,249,CLV Q3,True
+C0288,Dealer,North,Infrastructure,76291160,55,75,6.96,Loyal / High Value,2,5,5,6161097.0,16224220,250,CLV Q3,True
+C0154,Fleet Owner,North,Logistics,58187170,45,133,7.26,Loyal / High Value,1,5,5,6123576.0,12655390,251,CLV Q3,True
+C0420,Retail,South,Rental,72545910,46,40,5.82,Champions,3,5,5,5980470.0,15748570,255,CLV Q3,True
+C0333,Corporate,South,Mining,49686600,39,30,6.96,Loyal / High Value,4,4,4,5741913.0,10718240,261,CLV Q3,True
+C0242,Government,South,Construction,57416320,47,44,7.23,Champions,3,5,5,5680695.0,12308170,264,CLV Q3,True
+C0225,Fleet Owner,North,Logistics,54324600,48,168,7.87,Loyal / High Value,1,5,5,5651490.0,11491360,265,CLV Q3,True
+C0396,Government,West,Manufacturing,50680080,38,25,6.55,Loyal / High Value,4,4,4,5590452.0,10808210,268,CLV Q3,True
+C0307,Dealer,West,Manufacturing,57776220,42,38,6.18,Champions,3,5,5,5560680.0,12604210,270,CLV Q3,True
+C0482,Fleet Owner,East,Logistics,57846740,31,29,4.7,Loyal / High Value,4,2,5,5470686.0,12035510,273,CLV Q3,True
+C0129,Corporate,North,Mining,59941820,36,62,5.07,Loyal / High Value,2,3,5,5372061.0,12713880,276,CLV Q3,True
+C0448,Fleet Owner,East,Logistics,53706280,36,21,5.54,Loyal / High Value,4,3,4,5339967.0,11569930,277,CLV Q3,True
+C0284,Corporate,East,Manufacturing,54612880,41,9,6.21,Champions,5,4,5,5328432.0,11722550,279,CLV Q3,True
+C0060,Dealer,South,Mining,60575030,44,38,5.95,Champions,3,5,5,5241510.0,12929060,281,CLV Q3,True
+C0103,Dealer,South,Infrastructure,59164240,40,125,5.56,Loyal / High Value,1,4,5,5218926.0,12525420,282,CLV Q3,True
+C0176,Dealer,South,Logistics,52504460,42,147,6.46,Loyal / High Value,1,5,4,5201115.0,11269080,283,CLV Q3,True
+C0300,Dealer,North,Mining,57051500,40,44,5.63,Loyal / High Value,3,4,5,5197770.0,12301390,284,CLV Q3,True
+C0455,Retail,Central,Logistics,49656280,35,35,5.56,Loyal / High Value,4,3,4,5160723.0,10837520,286,CLV Q3,True
+C0230,Dealer,North,Infrastructure,48757760,38,62,6.13,Loyal / High Value,2,4,4,5135163.0,10612670,287,CLV Q3,True
+C0343,Corporate,West,Construction,53611870,40,41,5.8,Loyal / High Value,3,4,4,4984422.0,11464170,297,CLV Q3,True
+C0375,Fleet Owner,West,Mining,63738420,42,59,5.12,Champions,3,5,5,4975416.0,13599470,298,CLV Q3,True
+C0200,Retail,East,Logistics,66268870,47,37,5.4,Champions,4,5,5,4932735.0,14304930,301,CLV Q2,True
+C0377,Dealer,West,Logistics,53755340,37,25,5.29,Loyal / High Value,4,4,4,4863138.0,11347320,303,CLV Q2,True
+C0215,Corporate,South,Rental,58120530,49,8,6.2,Champions,5,5,5,4860882.0,12800320,304,CLV Q2,True
+C0311,Government,North,Infrastructure,54370990,41,106,5.69,Loyal / High Value,1,5,5,4845021.0,11628050,306,CLV Q2,True
+C0178,Dealer,East,Logistics,70236970,54,23,5.68,Champions,4,5,5,4843761.0,15338580,307,CLV Q2,True
+C0488,Government,South,Construction,52826960,37,36,5.07,Loyal / High Value,4,4,4,4790943.0,11657960,309,CLV Q2,True
+C0032,Government,West,Logistics,56493850,44,68,5.71,Loyal / High Value,2,5,5,4741125.0,12168890,310,CLV Q2,True
+C0169,Fleet Owner,West,Construction,54509920,40,66,5.33,Loyal / High Value,2,4,5,4703655.0,11759140,311,CLV Q2,True
+C0186,Fleet Owner,East,Infrastructure,55408900,40,21,5.26,Champions,4,4,5,4673247.0,11838890,315,CLV Q2,True
+C0189,Government,South,Manufacturing,47996060,35,51,5.22,Loyal / High Value,3,3,4,4659174.0,10405490,317,CLV Q2,True
+C0379,Retail,West,Mining,50443570,41,17,5.77,Champions,5,5,4,4641423.0,10984700,320,CLV Q2,True
+C0063,Retail,North,Rental,56519080,38,13,4.94,Champions,5,4,5,4631847.0,11888410,321,CLV Q2,True
+C0042,Fleet Owner,South,Rental,57941340,41,80,5.0,Loyal / High Value,2,4,5,4584096.0,12529860,330,CLV Q2,True
+C0383,Fleet Owner,North,Infrastructure,53480050,41,43,5.47,Loyal / High Value,3,5,4,4558968.0,11397420,332,CLV Q2,True
+C0304,Dealer,North,Construction,67903880,48,7,5.0,Champions,5,5,5,4548342.0,14554690,335,CLV Q2,True
+C0469,Government,North,Manufacturing,53714930,40,14,5.26,Champions,5,4,4,4533486.0,11484830,336,CLV Q2,True
+C0004,Fleet Owner,South,Logistics,47754210,46,1,6.57,Champions,5,5,4,4509117.0,10521270,339,CLV Q2,True
+C0462,Retail,South,Logistics,64949220,49,49,5.16,Champions,3,5,5,4449183.0,14089080,342,CLV Q2,True
+C0414,Dealer,South,Construction,52044170,40,1,5.19,Champions,5,4,4,4350069.0,11165180,348,CLV Q2,True
+C0331,Dealer,North,Logistics,53327060,42,17,5.12,Champions,5,5,4,4326120.0,11824730,349,CLV Q2,True
+C0234,Corporate,West,Infrastructure,56717930,29,6,3.41,Loyal / High Value,5,1,5,4235700.0,12001150,353,CLV Q2,True
+C0119,Government,West,Manufacturing,52748640,51,67,6.22,Loyal / High Value,2,5,4,4232298.0,11568280,355,CLV Q2,True
+C0109,Retail,South,Mining,54539050,44,23,5.24,Champions,4,5,5,4222293.0,11822420,356,CLV Q2,True
+C0247,Corporate,East,Logistics,53174220,39,49,4.7,Loyal / High Value,3,4,4,4153497.0,11491340,360,CLV Q2,True
+C0471,Fleet Owner,West,Logistics,51389940,37,35,4.68,Loyal / High Value,4,4,4,4152903.0,10935980,361,CLV Q2,True
+C0241,Government,West,Construction,57604400,39,62,4.33,Loyal / High Value,2,4,5,4149651.0,12448950,362,CLV Q2,True
+C0071,Corporate,North,Rental,56572600,42,36,4.67,Champions,4,5,5,4063413.0,12190240,369,CLV Q2,True
+C0327,Retail,West,Mining,47883020,43,26,5.58,Champions,4,5,4,4016829.0,10309860,374,CLV Q2,True
+C0045,Corporate,East,Rental,59085670,42,17,4.47,Champions,5,5,5,4008522.0,12560040,375,CLV Q2,True
+C0326,Government,East,Mining,51922180,42,2,5.06,Champions,5,5,4,3966654.0,10974410,379,CLV Q2,True
+C0039,Fleet Owner,South,Rental,49221640,38,34,4.69,Loyal / High Value,4,4,4,3933408.0,10620200,381,CLV Q2,True
+C0099,Fleet Owner,South,Rental,44372200,44,6,5.79,Champions,5,5,3,3853647.0,9762570,387,CLV Q2,True
+C0166,Fleet Owner,West,Manufacturing,54482720,32,24,3.48,Loyal / High Value,4,2,5,3851604.0,11811590,388,CLV Q2,True
+C0237,Dealer,South,Infrastructure,58676380,44,78,4.58,Loyal / High Value,2,5,5,3841602.0,12293130,389,CLV Q2,True
+C0193,Dealer,West,Infrastructure,53179600,38,32,4.18,Loyal / High Value,4,4,4,3786789.0,11486590,391,CLV Q2,True
+C0395,Corporate,East,Manufacturing,50643860,44,12,5.0,Champions,5,5,4,3729234.0,10939090,393,CLV Q2,True
+C0138,Corporate,South,Mining,49111730,34,7,4.05,Loyal / High Value,5,2,4,3725649.0,10431820,394,CLV Q2,True
+C0374,Corporate,West,Manufacturing,53669570,41,22,4.32,Champions,4,5,4,3654060.0,11571190,397,CLV Q2,True
+C0270,Corporate,North,Manufacturing,53374960,43,12,4.57,Champions,5,5,4,3636822.0,11395380,400,CLV Q2,True
+C0261,Dealer,North,Manufacturing,49449470,33,26,3.75,Loyal / High Value,4,2,4,3614325.0,10602020,404,CLV Q1 (Lowest),True
+C0010,Dealer,South,Construction,49509380,46,35,5.11,Champions,4,5,4,3607689.0,10823070,405,CLV Q1 (Lowest),True
+C0295,Corporate,East,Mining,51330170,38,84,4.13,Loyal / High Value,2,4,4,3533505.0,10836080,413,CLV Q1 (Lowest),True
+C0421,Retail,South,Construction,54492210,38,194,3.88,Loyal / High Value,1,4,5,3525552.0,11516800,414,CLV Q1 (Lowest),True
+C0425,Dealer,South,Manufacturing,53232320,41,23,4.1,Champions,4,5,4,3389808.0,11299360,422,CLV Q1 (Lowest),True
+C0269,Government,South,Mining,48367030,41,40,4.32,Loyal / High Value,3,4,4,3357072.0,10630730,426,CLV Q1 (Lowest),True
+C0328,Government,East,Rental,49201820,37,27,3.94,Loyal / High Value,4,4,4,3328011.0,10427770,430,CLV Q1 (Lowest),True

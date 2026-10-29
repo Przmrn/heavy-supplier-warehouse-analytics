@@ -1,0 +1,6 @@
+year,customers_in_year,retained_next_year,retention_rate_pct,churned_count
+2019,500,500,100.0,0
+2020,500,498,99.6,2
+2021,498,496,99.6,2
+2022,498,498,100.0,0
+2023,500,500,100.0,0

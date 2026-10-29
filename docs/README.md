@@ -8,6 +8,7 @@ Use these indexes to locate task reports, CSV outputs, scripts, and supporting e
 | Product & Inventory Analytics | B1-B9 | [Section B](section_b.md) |
 | Warehouse Operations & Efficiency | C1-C7 | [Section C](section_c.md) |
 | Supplier & Procurement Analytics | D1-D6 | [Section D](section_d.md) |
+| Customer Analytics | E1-E9 | [Section E](section_e.md) |
 
 See the [Data directory guide](../Data/README.md) for the processing-stage, section, and task folder structure.
 
@@ -18,4 +19,4 @@ See the [Data directory guide](../Data/README.md) for the processing-stage, sect
 - [A4: Feature Dictionary](A4_Feature_Dictionary.xlsx) describes the originally supplied feature definitions.
 - [Week 1 sprint notes](../sprints/WEEK-01.md) record task ownership, team-reported status, and outstanding issues.
 
-The Section A index includes the original folder mapping and subsequent reconstructed outputs. Both indexes distinguish file availability from analytical validation. Consult current schemas, code, and documented limitations before relying on workbook completion claims.
+The Section A index includes the original folder mapping and subsequent reconstructed outputs. The section indexes distinguish file availability from analytical validation. Consult current schemas, code, and documented limitations before relying on workbook completion claims.

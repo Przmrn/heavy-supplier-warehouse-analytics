@@ -1,0 +1,5 @@
+retention_status,customers,total_revenue,avg_recency,avg_orders,customer_share_pct,revenue_share_pct
+Active,385,17914404870,37.54805194805195,36.56103896103896,77.0,78.0
+Soft Risk,90,3992760100,122.07777777777778,35.13333333333333,18.0,17.4
+High Risk,20,865217770,201.95,32.35,4.0,3.8
+Churned,5,186604690,296.6,29.6,1.0,0.8

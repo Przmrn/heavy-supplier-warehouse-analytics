@@ -1,0 +1,6 @@
+customer_id,customer_type,region,industry_segment,recency_days,total_orders,total_revenue,orders_per_year,tenure_years,RFM_segment,R_score,F_score,M_score,retention_status,is_churned,is_at_risk_of_churn,churn_flag
+C0126,Dealer,South,Manufacturing,271,33,50213860,4.65,7.1,Potential / Needs Attention,1,2,4,Churned,True,False,Churned
+C0444,Dealer,South,Manufacturing,359,30,39970050,12.5,2.4,Lost / Low Value,1,1,2,Churned,True,False,Churned
+C0267,Fleet Owner,South,Infrastructure,282,29,36465390,10.0,2.9,Lost / Low Value,1,1,1,Churned,True,False,Churned
+C0487,Dealer,South,Mining,289,26,31063950,2.77,9.4,Lost / Low Value,1,1,1,Churned,True,False,Churned
+C0238,Corporate,South,Construction,282,30,28891440,7.14,4.2,Lost / Low Value,1,1,1,Churned,True,False,Churned

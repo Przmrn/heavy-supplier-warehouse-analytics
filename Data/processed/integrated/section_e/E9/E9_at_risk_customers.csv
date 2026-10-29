@@ -1,0 +1,175 @@
+customer_id,customer_type,region,industry_segment,total_revenue,total_orders,recency_days,orders_per_year,RFM_segment,R_score,F_score,M_score,predicted_clv_3yr,historical_clv,clv_rank,clv_band,is_high_value,retention_status,churn_flag,is_churned,is_at_risk_of_churn,is_at_risk
+C0373,Corporate,South,Manufacturing,54767460,38,121,76.0,Loyal / High Value,1,4,5,69811320.0,11635220,7,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0024,Dealer,South,Rental,47587690,44,106,146.67,Loyal / High Value,1,5,4,61967820.0,10327970,13,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0485,Fleet Owner,West,Rental,46389160,28,92,70.0,At Risk / Hibernating,2,1,3,58942380.0,9823730,15,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0385,Corporate,West,Manufacturing,52865670,37,100,61.67,Potential / Needs Attention,1,4,4,57646500.0,11529300,16,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0066,Retail,Central,Manufacturing,42371560,32,82,160.0,At Risk / Hibernating,2,2,2,55341240.0,9223540,18,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0075,Retail,South,Mining,39435130,33,73,110.0,At Risk / Hibernating,2,2,2,52530300.0,8755050,21,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0226,Dealer,West,Logistics,36902950,26,95,130.0,Lost / Low Value,2,1,1,48293100.0,8048850,24,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0079,Retail,North,Rental,36993090,31,34,31.0,At Risk / Hibernating,4,1,1,48060000.0,8010000,25,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0316,Dealer,East,Manufacturing,35655050,33,101,110.0,Lost / Low Value,1,2,1,46931820.0,7821970,26,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0212,Retail,North East,Infrastructure,35519950,31,131,310.0,Lost / Low Value,1,2,1,45465600.0,7577600,29,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0182,Dealer,East,Infrastructure,32105700,29,151,72.5,Lost / Low Value,1,1,1,42342720.0,7057120,32,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0122,Dealer,North East,Rental,37712330,31,57,44.29,At Risk / Hibernating,3,1,2,35347587.0,8247770,37,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0025,Corporate,West,Infrastructure,55220350,38,136,34.55,Loyal / High Value,1,4,5,32775246.0,12017590,40,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0088,Corporate,West,Infrastructure,44991010,36,148,36.0,Potential / Needs Attention,1,3,3,28844040.0,9614680,44,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0192,Fleet Owner,East,Logistics,54295880,40,125,30.77,Potential / Needs Attention,1,4,4,26816145.0,11620330,49,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0292,Corporate,Central,Rental,24356960,27,248,45.0,Lost / Low Value,1,1,1,26363751.0,5272750,50,CLV Q5 (Highest),True,High Risk,At Risk of Churn,False,True,True
+C0252,Retail,South,Construction,35584220,34,86,37.78,At Risk / Hibernating,2,3,1,25834599.0,7750380,52,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0110,Dealer,Central,Logistics,71230450,42,194,23.33,Loyal / High Value,1,5,5,25617234.0,15370340,53,CLV Q5 (Highest),True,High Risk,At Risk of Churn,False,True,True
+C0117,Government,North East,Mining,30628680,31,142,38.75,Lost / Low Value,1,1,1,24989250.0,6663800,55,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0464,Corporate,North,Infrastructure,52908510,38,110,27.14,Potential / Needs Attention,1,4,4,24402063.0,11387630,58,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0233,Government,East,Logistics,39173800,28,72,25.45,At Risk / Hibernating,2,1,2,22964427.0,8420290,62,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0256,Corporate,North East,Infrastructure,46110780,30,104,23.08,At Risk / Hibernating,1,1,3,22898355.0,9922620,63,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0463,Dealer,West,Mining,43452000,35,132,26.92,Potential / Needs Attention,1,3,3,22036386.0,9549100,68,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0281,Government,South,Logistics,36333020,26,190,23.64,Lost / Low Value,1,1,1,21359373.0,7831770,71,CLV Q5 (Highest),True,High Risk,At Risk of Churn,False,True,True
+C0053,Fleet Owner,North,Construction,35369930,27,105,22.5,Lost / Low Value,1,1,1,18734700.0,7493880,74,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0091,Retail,South,Construction,30689510,30,116,27.27,Lost / Low Value,1,1,1,18405873.0,6748820,76,CLV Q5 (Highest),True,Soft Risk,At Risk of Churn,False,True,True
+C0029,Dealer,South,Construction,45653420,38,185,20.0,Potential / Needs Attention,1,4,3,15858078.0,10043450,83,CLV Q5 (Highest),True,High Risk,At Risk of Churn,False,True,True
+C0500,Corporate,East,Infrastructure,34912870,27,25,18.0,At Risk / Hibernating,4,1,1,15309180.0,7654590,87,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0382,Retail,South,Manufacturing,33715150,33,43,22.0,At Risk / Hibernating,3,2,1,15183579.0,7591790,88,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0139,Government,West,Mining,29295750,29,62,22.31,Lost / Low Value,2,1,1,14965107.0,6484880,90,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0239,Government,South,Logistics,35255050,32,66,20.0,At Risk / Hibernating,2,2,1,14156364.0,7550060,96,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0376,Retail,North,Construction,40903770,29,38,15.26,At Risk / Hibernating,3,1,2,14086122.0,8921210,97,CLV Q5 (Highest),True,Active,Active,False,False,True
+C0021,Corporate,South,Mining,47093630,45,92,20.45,Loyal / High Value,2,5,3,13877181.0,10176600,102,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0325,Corporate,East,Rental,41524630,30,53,15.79,At Risk / Hibernating,3,1,2,13827033.0,8757120,103,CLV Q4,False,Active,Active,False,False,True
+C0085,Retail,South,Mining,47385290,37,103,16.82,Potential / Needs Attention,1,3,3,13596273.0,9970600,105,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0405,Corporate,West,Infrastructure,39790100,32,190,16.0,At Risk / Hibernating,1,2,2,12807435.0,8538290,111,CLV Q4,False,High Risk,At Risk of Churn,False,True,True
+C0265,Retail,West,Mining,37594220,29,96,15.26,At Risk / Hibernating,2,1,2,12773796.0,8090070,112,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0199,Government,West,Mining,38456880,33,72,16.5,At Risk / Hibernating,2,2,2,12692265.0,8461510,113,CLV Q4,False,Active,Active,False,False,True
+C0002,Fleet Owner,South,Manufacturing,56261100,51,116,17.0,Loyal / High Value,1,5,5,12283200.0,12283200,117,CLV Q4,True,Soft Risk,At Risk of Churn,False,True,True
+C0180,Fleet Owner,South,Logistics,23677460,27,22,19.29,At Risk / Hibernating,4,1,1,11770992.0,5493130,121,CLV Q4,False,Active,Active,False,False,True
+C0474,Government,West,Logistics,37863700,30,55,14.29,At Risk / Hibernating,3,1,2,11679144.0,8175400,123,CLV Q4,False,Active,Active,False,False,True
+C0156,Government,South,Manufacturing,52631480,33,106,11.38,Potential / Needs Attention,1,2,4,11575293.0,11189450,124,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0084,Corporate,West,Logistics,57484480,39,101,12.19,Loyal / High Value,1,4,5,11274093.0,12025700,126,CLV Q4,True,Soft Risk,At Risk of Churn,False,True,True
+C0428,Retail,North,Construction,52052170,43,128,14.33,Loyal / High Value,1,5,4,11211819.0,11211820,128,CLV Q4,True,Soft Risk,At Risk of Churn,False,True,True
+C0444,Dealer,South,Manufacturing,39970050,30,359,12.5,Lost / Low Value,1,1,2,11085726.0,8868580,130,CLV Q4,False,Churned,Churned,True,False,True
+C0132,Corporate,Central,Construction,38534330,37,92,16.09,Potential / Needs Attention,2,3,2,10970973.0,8411080,132,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0368,Fleet Owner,South,Construction,40673710,31,61,12.92,At Risk / Hibernating,2,2,2,10970724.0,8776580,133,CLV Q4,False,Active,Active,False,False,True
+C0476,Fleet Owner,North,Infrastructure,57777740,34,94,10.3,Loyal / High Value,2,3,5,10927674.0,12020440,134,CLV Q4,True,Soft Risk,At Risk of Churn,False,True,True
+C0030,Corporate,South,Construction,45703710,32,121,11.43,At Risk / Hibernating,1,2,3,10652367.0,9942210,140,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0497,Government,South,Logistics,40341140,30,60,12.0,At Risk / Hibernating,2,1,2,10612140.0,8843450,141,CLV Q4,False,Active,Active,False,False,True
+C0006,Government,West,Construction,51412280,40,121,12.5,Potential / Needs Attention,1,4,4,10403250.0,11096800,143,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0034,Government,West,Construction,33363540,32,87,15.24,At Risk / Hibernating,2,2,1,10284672.0,7199270,144,CLV Q4,False,Active,Active,False,False,True
+C0092,Fleet Owner,West,Logistics,36740510,36,155,15.0,At Risk / Hibernating,1,3,1,10053513.0,8042810,149,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0322,Government,West,Construction,32200600,28,22,13.33,At Risk / Hibernating,4,1,1,9980157.0,6986110,152,CLV Q4,False,Active,Active,False,False,True
+C0248,Fleet Owner,West,Rental,35510400,30,28,12.5,At Risk / Hibernating,4,1,1,9606951.0,7685560,160,CLV Q4,False,Active,Active,False,False,True
+C0438,Corporate,East,Rental,48432400,39,122,11.82,Potential / Needs Attention,1,4,4,9496356.0,10445990,163,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0293,Dealer,West,Logistics,52424230,36,98,10.0,Potential / Needs Attention,2,3,4,9405426.0,11286510,167,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0144,Fleet Owner,West,Construction,31072090,25,131,11.36,Lost / Low Value,1,1,1,9107769.0,6679030,170,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0048,Dealer,South,Mining,38811940,31,111,11.07,Lost / Low Value,1,1,2,8982354.0,8383530,171,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0387,Dealer,East,Infrastructure,37034600,34,67,11.33,At Risk / Hibernating,2,3,1,8310240.0,8310240,180,CLV Q4,False,Active,Active,False,False,True
+C0267,Fleet Owner,South,Infrastructure,36465390,29,282,10.0,Lost / Low Value,1,1,1,8273493.0,7997710,182,CLV Q4,False,Churned,Churned,True,False,True
+C0451,Government,East,Manufacturing,38981780,37,179,11.94,Potential / Needs Attention,1,4,2,8256669.0,8531890,183,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0221,Dealer,North,Logistics,64336800,44,118,8.8,Loyal / High Value,1,5,5,8112450.0,13520750,185,CLV Q4,True,Soft Risk,At Risk of Churn,False,True,True
+C0116,Dealer,North,Construction,50227070,35,157,8.75,Potential / Needs Attention,1,3,4,8102004.0,10802670,186,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0183,Government,West,Mining,25426200,27,27,12.86,At Risk / Hibernating,4,1,1,8094843.0,5666390,187,CLV Q4,False,Active,Active,False,False,True
+C0223,Corporate,West,Logistics,42492870,33,78,9.71,At Risk / Hibernating,2,2,2,7933455.0,8991250,190,CLV Q4,False,Active,Active,False,False,True
+C0274,Dealer,North,Mining,42946740,39,188,10.83,Potential / Needs Attention,1,4,3,7585725.0,9102870,195,CLV Q4,False,High Risk,At Risk of Churn,False,True,True
+C0372,Government,South,Logistics,41513200,36,175,10.0,At Risk / Hibernating,1,3,2,7491693.0,8990030,196,CLV Q4,False,Soft Risk,At Risk of Churn,False,True,True
+C0028,Retail,South,Infrastructure,30031300,29,49,10.74,At Risk / Hibernating,3,1,1,7414479.0,6673030,200,CLV Q4,False,Active,Active,False,False,True
+C0150,Fleet Owner,West,Manufacturing,32673410,30,53,10.34,At Risk / Hibernating,3,1,1,7323849.0,7079720,203,CLV Q3,False,Active,Active,False,False,True
+C0131,Corporate,South,Rental,46237660,32,201,8.0,At Risk / Hibernating,1,2,3,7312365.0,9749820,204,CLV Q3,False,High Risk,At Risk of Churn,False,True,True
+C0078,Dealer,South,Rental,33430220,31,193,10.33,Lost / Low Value,1,1,1,7307781.0,7307780,205,CLV Q3,False,High Risk,At Risk of Churn,False,True,True
+C0254,Dealer,West,Mining,70227620,48,98,7.62,Loyal / High Value,2,5,5,7137186.0,14988090,209,CLV Q3,True,Soft Risk,At Risk of Churn,False,True,True
+C0297,Fleet Owner,South,Rental,57279920,34,184,6.42,Potential / Needs Attention,1,3,5,7006908.0,12378870,212,CLV Q3,False,High Risk,At Risk of Churn,False,True,True
+C0031,Government,East,Mining,39680260,34,141,9.19,At Risk / Hibernating,1,2,2,6969243.0,8595400,213,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0094,Corporate,West,Logistics,36407440,31,103,9.12,Lost / Low Value,1,1,1,6859005.0,7773540,221,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0213,Fleet Owner,West,Rental,51921070,30,123,6.25,At Risk / Hibernating,1,1,4,6803874.0,10886200,225,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0431,Government,West,Logistics,35920190,28,180,8.24,Lost / Low Value,1,1,1,6776214.0,7679710,227,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0384,Retail,South,Construction,56692240,39,114,7.09,Loyal / High Value,1,4,5,6516345.0,11946630,235,CLV Q3,True,Soft Risk,At Risk of Churn,False,True,True
+C0271,Corporate,South,Infrastructure,29644660,24,36,8.0,At Risk / Hibernating,4,1,1,6481200.0,6481200,239,CLV Q3,False,Active,Active,False,False,True
+C0298,Fleet Owner,South,Construction,36725200,33,42,8.92,At Risk / Hibernating,3,2,1,6478533.0,7990190,240,CLV Q3,False,Active,Active,False,False,True
+C0434,Corporate,Central,Mining,42768890,33,67,7.86,At Risk / Hibernating,2,2,2,6467793.0,9054910,242,CLV Q3,False,Active,Active,False,False,True
+C0041,Government,South,Rental,53358620,38,204,7.04,Potential / Needs Attention,1,4,4,6377694.0,11479850,245,CLV Q3,False,High Risk,At Risk of Churn,False,True,True
+C0419,Fleet Owner,West,Logistics,48221790,31,93,6.33,Potential / Needs Attention,2,2,4,6330519.0,10339850,246,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0489,Fleet Owner,South,Rental,55400350,47,137,8.1,Loyal / High Value,1,5,5,6280842.0,12142960,247,CLV Q3,True,Soft Risk,At Risk of Churn,False,True,True
+C0154,Fleet Owner,North,Logistics,58187170,45,133,7.26,Loyal / High Value,1,5,5,6123576.0,12655390,251,CLV Q3,True,Soft Risk,At Risk of Churn,False,True,True
+C0158,Corporate,East,Infrastructure,46231390,36,97,7.2,Potential / Needs Attention,2,3,3,6002520.0,10004200,253,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0433,Dealer,North,Infrastructure,44764880,31,219,6.33,At Risk / Hibernating,1,2,3,5936970.0,9697050,256,CLV Q3,False,High Risk,At Risk of Churn,False,True,True
+C0283,Retail,North,Logistics,34916310,31,119,7.95,Lost / Low Value,1,2,1,5806407.0,7548330,260,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0225,Fleet Owner,North,Logistics,54324600,48,168,7.87,Loyal / High Value,1,5,5,5651490.0,11491360,265,CLV Q3,True,Soft Risk,At Risk of Churn,False,True,True
+C0330,Retail,East,Infrastructure,42673670,38,144,7.6,Potential / Needs Attention,1,4,2,5626446.0,9377410,267,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0365,Government,East,Manufacturing,47362240,39,108,6.96,Potential / Needs Attention,1,4,3,5571456.0,10400050,269,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0358,Government,West,Infrastructure,46632120,36,92,6.55,Potential / Needs Attention,2,3,3,5482947.0,10052070,272,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0202,Government,North,Logistics,39546540,28,102,5.96,Lost / Low Value,1,1,2,5402094.0,8463280,275,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0198,Government,West,Mining,49819290,36,153,6.21,Potential / Needs Attention,1,3,4,5336316.0,10316880,278,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0266,Fleet Owner,South,Rental,39797800,35,99,7.14,At Risk / Hibernating,1,3,2,5259342.0,8590260,280,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0103,Dealer,South,Infrastructure,59164240,40,125,5.56,Loyal / High Value,1,4,5,5218926.0,12525420,282,CLV Q3,True,Soft Risk,At Risk of Churn,False,True,True
+C0176,Dealer,South,Logistics,52504460,42,147,6.46,Loyal / High Value,1,5,4,5201115.0,11269080,283,CLV Q3,True,Soft Risk,At Risk of Churn,False,True,True
+C0324,Corporate,South,Mining,41098360,35,130,6.86,At Risk / Hibernating,1,3,2,5181147.0,8807950,285,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0047,Corporate,West,Rental,45416100,30,129,5.36,At Risk / Hibernating,1,1,3,5068392.0,9461000,289,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0417,Fleet Owner,East,Mining,40806780,32,112,6.04,At Risk / Hibernating,1,2,2,5065986.0,8949910,290,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0314,Retail,East,Logistics,46037410,36,97,6.0,Potential / Needs Attention,2,3,3,4970280.0,9940560,299,CLV Q3,False,Soft Risk,At Risk of Churn,False,True,True
+C0311,Government,North,Infrastructure,54370990,41,106,5.69,Loyal / High Value,1,5,5,4845021.0,11628050,306,CLV Q2,True,Soft Risk,At Risk of Churn,False,True,True
+C0163,Dealer,West,Logistics,36480350,38,149,7.31,At Risk / Hibernating,1,4,1,4701339.0,8148990,312,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0133,Government,South,Mining,40181100,29,269,5.18,Lost / Low Value,1,1,2,4650288.0,8680540,319,CLV Q2,False,High Risk,At Risk of Churn,False,True,True
+C0043,Corporate,South,Construction,37467660,36,201,6.55,At Risk / Hibernating,1,3,2,4621212.0,8472220,323,CLV Q2,False,High Risk,At Risk of Churn,False,True,True
+C0361,Government,South,Logistics,41202210,32,97,5.61,At Risk / Hibernating,2,2,2,4619220.0,8776520,324,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0238,Corporate,South,Construction,28891440,30,282,7.14,Lost / Low Value,1,1,1,4591071.0,6427500,328,CLV Q2,False,Churned,Churned,True,False,True
+C0260,Dealer,South,Logistics,43590270,32,118,5.25,At Risk / Hibernating,1,2,3,4584690.0,9322200,329,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0484,Fleet Owner,West,Mining,37883370,27,52,5.0,At Risk / Hibernating,3,1,2,4557282.0,8203110,333,CLV Q2,False,Active,Active,False,False,True
+C0479,Retail,West,Construction,29592950,26,85,6.19,Lost / Low Value,2,1,1,4555737.0,6378030,334,CLV Q2,False,Active,Active,False,False,True
+C0185,Dealer,West,Logistics,37319640,33,107,6.23,At Risk / Hibernating,1,2,2,4522776.0,7990240,338,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0424,Retail,West,Construction,45692330,35,100,5.22,Potential / Needs Attention,1,3,3,4436064.0,9907210,343,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0126,Dealer,South,Manufacturing,50213860,33,271,4.65,Potential / Needs Attention,1,2,4,4428684.0,10481220,344,CLV Q2,False,Churned,Churned,True,False,True
+C0235,Fleet Owner,East,Mining,47454230,38,113,5.43,Potential / Needs Attention,1,4,3,4421229.0,10316200,345,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0388,Fleet Owner,West,Infrastructure,30890020,27,20,5.87,At Risk / Hibernating,4,1,1,4303233.0,6598290,350,CLV Q2,False,Active,Active,False,False,True
+C0135,Retail,South,Rental,49182970,35,127,4.86,Potential / Needs Attention,1,3,4,4245621.0,10189490,352,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0171,Fleet Owner,South,Construction,43403890,30,74,4.62,At Risk / Hibernating,2,1,3,4189467.0,9077180,359,CLV Q2,False,Active,Active,False,False,True
+C0337,Corporate,North,Manufacturing,57585510,34,129,3.82,Potential / Needs Attention,1,3,5,4139073.0,12279250,363,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0187,Retail,North,Rental,36769950,30,54,5.17,At Risk / Hibernating,3,1,1,4120623.0,7966540,367,CLV Q2,False,Active,Active,False,False,True
+C0498,Fleet Owner,East,Construction,50845460,28,135,3.54,At Risk / Hibernating,1,1,4,4021827.0,10590810,373,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0334,Corporate,South,Mining,29449120,33,130,6.6,Lost / Low Value,1,2,1,3992640.0,6654400,376,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0412,Corporate,East,Infrastructure,33987820,32,218,5.93,Lost / Low Value,1,2,1,3968628.0,7143530,378,CLV Q2,False,High Risk,At Risk of Churn,False,True,True
+C0218,Fleet Owner,West,Construction,34801450,36,77,6.0,At Risk / Hibernating,2,3,1,3902790.0,7805580,384,CLV Q2,False,Active,Active,False,False,True
+C0351,Corporate,East,Rental,35183170,34,111,5.57,At Risk / Hibernating,1,3,1,3868740.0,7866440,385,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0336,Government,East,Rental,30736480,33,97,6.35,At Risk / Hibernating,2,2,1,3855126.0,6682220,386,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0249,Corporate,West,Construction,49712310,35,120,4.07,Potential / Needs Attention,1,3,4,3689718.0,10577190,395,CLV Q2,False,Soft Risk,At Risk of Churn,False,True,True
+C0020,Dealer,East,Logistics,33443220,37,76,6.07,At Risk / Hibernating,2,3,1,3665454.0,7453090,396,CLV Q2,False,Active,Active,False,False,True
+C0442,Dealer,East,Logistics,41966020,33,73,4.52,At Risk / Hibernating,2,2,2,3652680.0,8888190,398,CLV Q2,False,Active,Active,False,False,True
+C0473,Government,South,Rental,32922260,26,47,4.48,At Risk / Hibernating,3,1,1,3615327.0,6989630,403,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0491,Dealer,South,Infrastructure,51140830,27,181,2.97,At Risk / Hibernating,1,1,4,3590841.0,10892220,407,CLV Q1 (Lowest),False,High Risk,At Risk of Churn,False,True,True
+C0251,Dealer,North,Mining,47504560,36,179,4.19,Potential / Needs Attention,1,3,3,3562152.0,10211500,408,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0421,Retail,South,Construction,54492210,38,194,3.88,Loyal / High Value,1,4,5,3525552.0,11516800,414,CLV Q1 (Lowest),True,High Risk,At Risk of Churn,False,True,True
+C0454,Government,West,Mining,32847670,33,48,5.32,At Risk / Hibernating,3,2,1,3418965.0,7065860,419,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0018,Retail,West,Construction,38692710,31,48,4.31,At Risk / Hibernating,3,1,2,3411282.0,8187080,420,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0402,Fleet Owner,South,Rental,34212640,35,173,5.15,At Risk / Hibernating,1,3,1,3384537.0,7671620,423,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0279,Dealer,West,Rental,27795350,26,50,4.73,At Risk / Hibernating,3,1,1,3363795.0,6166960,424,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0313,Corporate,West,Mining,37841680,30,121,4.05,Lost / Low Value,1,1,2,3360966.0,8290380,425,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0114,Retail,East,Mining,38178710,33,96,4.34,At Risk / Hibernating,2,2,2,3353109.0,8494540,427,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0228,Government,South,Construction,47933580,34,113,3.62,Potential / Needs Attention,1,3,4,3279084.0,10274460,431,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0353,Dealer,North,Manufacturing,25154270,27,85,5.19,Lost / Low Value,2,1,1,3216906.0,5575970,435,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0007,Corporate,West,Manufacturing,28648240,31,59,5.34,At Risk / Hibernating,3,1,1,3216621.0,6218800,436,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0143,Corporate,South,Infrastructure,35058490,27,152,3.8,Lost / Low Value,1,1,1,3200055.0,7573460,438,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0262,Corporate,North,Logistics,28771050,26,28,4.19,At Risk / Hibernating,4,1,1,3102219.0,6411250,443,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0450,Fleet Owner,East,Construction,43401530,38,111,4.22,Potential / Needs Attention,1,4,3,3083583.0,9250750,447,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0321,Retail,South,Logistics,42809230,38,187,4.18,Potential / Needs Attention,1,4,2,3080739.0,9344910,448,CLV Q1 (Lowest),False,High Risk,At Risk of Churn,False,True,True
+C0115,Fleet Owner,South,Mining,34787020,29,34,3.87,At Risk / Hibernating,4,1,1,3003444.0,7508610,453,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0470,Government,South,Mining,38599240,36,96,4.19,Potential / Needs Attention,2,3,2,2985876.0,8559510,454,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0277,Dealer,West,Logistics,34361720,36,109,4.68,At Risk / Hibernating,1,3,1,2931948.0,7525330,457,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0423,Dealer,South,Infrastructure,36819280,30,53,3.66,At Risk / Hibernating,3,1,1,2911515.0,7958140,459,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0441,Dealer,North,Construction,37017660,31,74,3.6,At Risk / Hibernating,2,2,1,2887710.0,8278100,461,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0344,Fleet Owner,West,Mining,37729300,28,198,3.18,Lost / Low Value,1,1,2,2735391.0,8023810,468,CLV Q1 (Lowest),False,High Risk,At Risk of Churn,False,True,True
+C0418,Government,West,Mining,37023670,30,48,3.33,At Risk / Hibernating,3,1,1,2730594.0,8191780,469,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0347,Retail,North,Mining,17721530,24,29,5.45,At Risk / Hibernating,4,1,1,2729658.0,4003500,470,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0179,Government,South,Infrastructure,34009700,32,164,3.86,Lost / Low Value,1,2,1,2712246.0,7503880,471,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0299,Retail,South,Logistics,37822560,34,124,3.7,At Risk / Hibernating,1,3,2,2710116.0,8311020,472,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0430,Retail,West,Manufacturing,35197560,27,82,3.1,Lost / Low Value,2,1,1,2691039.0,7804010,474,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0008,Corporate,West,Logistics,37972100,34,169,3.58,At Risk / Hibernating,1,2,2,2647227.0,8382890,476,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0100,Government,North,Construction,38016250,38,113,3.84,Potential / Needs Attention,1,4,2,2567349.0,8472250,478,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0339,Fleet Owner,South,Logistics,31557880,24,138,2.96,Lost / Low Value,1,1,1,2509200.0,6774840,479,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0127,Government,East,Construction,38456060,28,190,2.83,Lost / Low Value,1,1,2,2507043.0,8273240,480,CLV Q1 (Lowest),False,High Risk,At Risk of Churn,False,True,True
+C0037,Corporate,West,Construction,35689100,36,68,3.87,At Risk / Hibernating,2,3,1,2490651.0,7721020,481,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0352,Corporate,South,Mining,31581590,30,51,3.57,At Risk / Hibernating,3,1,1,2458386.0,6883480,483,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0151,Government,East,Infrastructure,31051670,27,34,3.18,At Risk / Hibernating,4,1,1,2405640.0,6815980,485,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0137,Dealer,South,Infrastructure,33571570,21,205,2.31,Lost / Low Value,1,1,1,2310048.0,7007150,486,CLV Q1 (Lowest),False,High Risk,At Risk of Churn,False,True,True
+C0243,Government,North,Construction,33315370,28,22,2.92,At Risk / Hibernating,4,1,1,2275497.0,7281590,488,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0366,Corporate,East,Logistics,34264010,26,67,2.63,Lost / Low Value,2,1,1,2249436.0,7423140,489,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0229,Government,East,Mining,34806810,28,33,2.8,At Risk / Hibernating,4,1,1,2195799.0,7319330,490,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0487,Dealer,South,Mining,31063950,26,289,2.77,Lost / Low Value,1,1,1,2164893.0,6783330,491,CLV Q1 (Lowest),False,Churned,Churned,True,False,True
+C0125,Government,West,Mining,25077820,30,23,3.7,At Risk / Hibernating,4,1,1,2037804.0,5502070,494,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0303,Corporate,West,Mining,25492220,27,31,3.14,At Risk / Hibernating,4,1,1,1953600.0,5600320,495,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0061,Dealer,West,Construction,26564250,29,115,3.26,Lost / Low Value,1,1,1,1910175.0,5666850,496,CLV Q1 (Lowest),False,Soft Risk,At Risk of Churn,False,True,True
+C0174,Government,West,Mining,23386250,29,29,3.22,At Risk / Hibernating,4,1,1,1731411.0,5194230,499,CLV Q1 (Lowest),False,Active,Active,False,False,True
+C0456,Corporate,North,Mining,24747800,27,77,2.73,Lost / Low Value,2,1,1,1618932.0,5342480,500,CLV Q1 (Lowest),False,Active,Active,False,False,True
