@@ -1,0 +1,6 @@
+scenario,label,description,demand_mult,lt_days,avg_rop,avg_safety_stock,median_years_cover,median_stock_vs_rop,median_months_to_rop,total_monthly_demand
+S0_Base,"Base (current forecast, LT 17.9d)",Recommended demand from F1; actual average lead time,1.0,17.9,416.6333333333333,87.06666666666666,96.74532265857223,1560.3818884892084,1160.236545348925,16571.8
+S1_Demand_Up_20,Demand +20%,Demand 20% above forecast; same lead time,1.2,17.9,482.56666666666666,87.06666666666666,80.62110221547687,1344.231251770162,966.7643900532416,19886.159999999996
+S2_Demand_Down_20,Demand −20%,Demand 20% below forecast; same lead time,0.8,17.9,350.8333333333333,87.06666666666666,120.9316533232153,1855.3097883597884,1450.4436287614585,13257.44
+S3_LT_Longer,Lead time +50% (27d),Lead time stretches to ~27 days; base demand,1.0,26.8,601.0,106.6,96.74532265857223,1079.6495158181328,1159.912931299411,16571.8
+S4_Stress,Stress: Demand +20% & LT +50%,Combined demand spike and slower supply,1.2,26.8,700.0,106.6,80.62110221547687,930.071701576129,966.4446212255057,19886.159999999996

@@ -21,15 +21,17 @@ The repository roster records four members (three Data Analysts and one BI Analy
 | [Section C: task outputs](Data/processed/integrated/section_c/) | 9 analysis CSVs organized into C1-C7 task folders |
 | [Section D: task outputs](Data/processed/integrated/section_d/) | 8 analysis CSVs organized into D1-D6 task folders |
 | [Section E: task outputs](Data/processed/integrated/section_e/) | 21 customer-analysis CSVs organized into E1-E9 task folders |
+| [Section F: task outputs](Data/processed/integrated/section_f/) | 13 forecasting CSVs in task folders; the shared F4/F5 CSV is stored under F4 |
 | [Reports/product_inventory](Reports/product_inventory/) | Nine Section B analysis workbooks covering B1-B9 |
 | [Reports/warehouse_operations](Reports/warehouse_operations/) | Four Section C analysis workbooks covering C1-C7 |
 | [Reports/supplier_procurement](Reports/supplier_procurement/) | Three Section D analysis workbooks covering D1-D6 |
 | [Reports/customer_analytics](Reports/customer_analytics/) | Six Section E analysis workbooks covering E1-E9 |
+| [Reports/forecasting](Reports/forecasting/) | Four Section F analysis workbooks covering F1-F6 |
 | [Reports/profiling](Reports/profiling/) | Data profiling report |
 | [Reports/data_quality](Reports/data_quality/) | Data cleaning log |
-| [Reports/validation](Reports/validation/) | Section A-E completion summaries |
-| [docs](docs/README.md) | A1-A6, B1-B9, C1-C7, D1-D6, and E1-E9 file indexes, dictionaries, and integration guides |
-| [sprints](sprints/) | Weekly sprint notes ([Week 1](sprints/WEEK-01.md), [Week 2](sprints/WEEK-02.md), [Week 3](sprints/WEEK-03.md), [Week 4](sprints/WEEK-04.md)), task ownership, and progress |
+| [Reports/validation](Reports/validation/) | Section A-F completion summaries |
+| [docs](docs/README.md) | A1-A6, B1-B9, C1-C7, D1-D6, E1-E9, and F1-F6 file indexes, dictionaries, and integration guides |
+| [sprints](sprints/) | Weekly sprint notes ([Week 1](sprints/WEEK-01.md), [Week 2](sprints/WEEK-02.md), [Week 3](sprints/WEEK-03.md), [Week 4](sprints/WEEK-04.md), [Week 5](sprints/WEEK-05.md)), task ownership, and progress |
 
 `Data/raw/` is reserved for original, unmodified source data; the supplied cleaned and integrated files are stored under `Data/processed/`. `Data/external/`, `Src/`, and `Reports/visuals/` currently contain placeholders for future work.
 
@@ -39,7 +41,7 @@ Data folders follow processing stage, section, then task; see the [Data director
 
 The Section A scripts use pandas; install the listed dependency with `python -m pip install -r requirements.txt`. The entry points are `python Notebooks/build.analysis_tables.py` for the selected sales and purchase outputs and `python Notebooks/repair_adjusments.py` for the stock-movement repair candidate. Both scripts stop when their output targets already exist. Those targets are populated in this repository, so these commands will not reproduce the outputs from the current checkout as-is. Reproduction requires a separate, empty output location or a deliberate code/configuration change to point the scripts there; do not delete team outputs to rerun them. The pinned dependency and commands have not been verified in this audit environment.
 
-Sections B, C, D, and E contain workbooks with written method descriptions and static results, plus CSV exports. The workbooks do not contain executable spreadsheet formulas, and no generation scripts for those sections are included, so those outputs cannot be regenerated from this repository alone. Their analytical review and input-version checks remain open as described in the section indexes.
+Sections B, C, D, E, and F contain workbooks with written method descriptions and static results, plus CSV exports. The workbooks do not contain executable spreadsheet formulas, and no generation scripts for those sections are included, so those outputs cannot be regenerated from this repository alone. Their analytical review and input-version checks remain open as described in the section indexes.
 
 ## Weekly delivery
 
@@ -47,11 +49,13 @@ Sections B, C, D, and E contain workbooks with written method descriptions and s
 - [Week 2 sprint notes](sprints/WEEK-02.md): Section B completion and Section C warehouse tasks in progress.
 - [Week 3 sprint notes](sprints/WEEK-03.md): confirm organized Section C/D outputs and agree the next analysis scope.
 - [Week 4 sprint notes](sprints/WEEK-04.md): organize the Section E customer-analytics package; Section F is deferred.
+- [Week 5 sprint notes](sprints/WEEK-05.md): organize the Section F forecasting and predictive-analytics package.
 - [Section A file index](docs/section_a.md): A1-A6 task labels, current CSV dimensions, reports, scripts, and repair evidence.
 - [Section B file index](docs/section_b.md): all 25 supplied files organized on 5 October 2026, covering B1-B9. File integrity was checked; analytical review remains separate.
 - [Section C file index](docs/section_c.md): all 14 supplied files organized on 16 October 2026, covering C1-C7. File integrity was checked; analytical review remains separate.
 - [Section D file index](docs/section_d.md): all 12 supplied files organized on 16 October 2026, covering D1-D6. File integrity was checked; analytical review remains separate.
 - [Section E file index](docs/section_e.md): all 28 supplied files organized on 29 October 2026, covering E1-E9. File integrity and CSV dimensions were checked; analytical review remains separate.
+- [Section F file index](docs/section_f.md): 18 supplied files organized on 4 November 2026, covering F1-F6. File integrity and selected CSV summaries were checked; forecast validation remains open.
 
 ## Section A results summary
 
@@ -153,3 +157,11 @@ Section E covers customer purchase behaviour, RFM, personas, customer lifetime v
 The supplied results cover 500 distinct customers and 22.96B total delivered-sales revenue. The yearly table reports 99.6-100% retention from 2019 through 2023; the churn list contains 5 customers. The high-value list contains 223 customers, while the priority at-risk list contains 46 high-value customers. The highest predicted-CLV quintile represents 59.2% of predicted CLV.
 
 These are team-reported output figures, not independent validation. The workbooks contain written method sheets but no executable formulas, and no Section E generation script was supplied. The separate E6 and E9 at-risk lists contain 110 and 174 customers respectively; their definitions need reconciliation before using the classifications for decisions. See the [Section E index](docs/section_e.md) for dimensions and review limitations.
+
+## Section F results summary
+
+Section F covers product demand forecasting, inventory-level forecasting, stockout-risk ranking, reorder points, safety stock, and scenario analysis. The package contains 13 CSVs, four task workbooks, and a completion summary. CSVs are organized under `Data/processed/integrated/section_f/F1/` through `F6/`; workbooks are in `Reports/forecasting/`.
+
+The supplied results forecast 198,861 units over the next 12 months versus 199,858 units in the previous 12 months. Demand is classified as Stable for 25 products, Declining for 3, and Growing for 2. The inventory detail covers 180 unique product-branch positions; all are labeled Minimal stockout risk, with median cover of about 96.7 years. The reported mean reorder point is about 417 units and mean safety stock about 87 units. Under the combined stress scenario, median cover remains about 80.6 years.
+
+These figures were cross-checked against the CSV exports, not independently validated as forecasts. The package provides moving-average/trend methods in its workbooks but no generation script or backtest evidence. The analysis uses delivered-sales history; demand, lead-time, service-level, stock-balance, and source-version assumptions need review before operational use. The extreme stock-cover results are a reason to verify inventory balances and units before acting on proposed replenishment or stock-reduction policies. See the [Section F index](docs/section_f.md) for file dimensions and limitations.

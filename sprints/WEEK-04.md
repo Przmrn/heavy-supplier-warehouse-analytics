@@ -46,4 +46,4 @@ Agreed to assigned tasks by the SCRUM master.
 
 - Agree the next sprint scope. Section F was intentionally deferred for Week 4.
 - Stage and commit the Week 4 package, push it to GitHub, verify the remote, and submit the repository link separately in the CadetX portal.
-- Continue to work on tasks F for week 5.
+- Week 5 scope: Section F forecasting and predictive-analytics tasks; see the [Week 5 sprint notes](WEEK-05.md).

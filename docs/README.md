@@ -9,6 +9,7 @@ Use these indexes to locate task reports, CSV outputs, scripts, and supporting e
 | Warehouse Operations & Efficiency | C1-C7 | [Section C](section_c.md) |
 | Supplier & Procurement Analytics | D1-D6 | [Section D](section_d.md) |
 | Customer Analytics | E1-E9 | [Section E](section_e.md) |
+| Forecasting & Predictive Analytics | F1-F6 | [Section F](section_f.md) |
 
 See the [Data directory guide](../Data/README.md) for the processing-stage, section, and task folder structure.
 
