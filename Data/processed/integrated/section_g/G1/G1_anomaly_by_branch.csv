@@ -1,0 +1,7 @@
+branch_name,total_movements,anomaly_count,extreme_count,anomaly_rate_pct
+Ahmedabad West Hub,39911,6,0,0.02
+Hyderabad Logistics,36300,6,0,0.02
+Delhi Central,37967,2,0,0.01
+Chennai South Hub,44029,1,0,0.0
+Kolkata East Depot,41272,2,0,0.0
+Pune Distribution,37751,1,0,0.0

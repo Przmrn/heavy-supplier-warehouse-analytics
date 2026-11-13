@@ -10,6 +10,7 @@ Use these indexes to locate task reports, CSV outputs, scripts, and supporting e
 | Supplier & Procurement Analytics | D1-D6 | [Section D](section_d.md) |
 | Customer Analytics | E1-E9 | [Section E](section_e.md) |
 | Forecasting & Predictive Analytics | F1-F6 | [Section F](section_f.md) |
+| Risk, Anomaly & Control Analytics | G1-G4 | [Section G](section_g.md) |
 
 See the [Data directory guide](../Data/README.md) for the processing-stage, section, and task folder structure.
 

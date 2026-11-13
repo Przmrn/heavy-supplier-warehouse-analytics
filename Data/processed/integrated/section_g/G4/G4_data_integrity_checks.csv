@@ -1,0 +1,29 @@
+check_id,table,severity,issue,count,detail,recommendation
+RECON-balance-gap,inventory_position + ledger,High,Stock balance equation gaps (from G2),180,All 180 positions: actual current ≠ opening+IN−OUT+adj; sales qty ≠ ledger OUT,Root-cause posting logic and definitions (see G2)
+RECON-sales-vs-out,sales_analysis vs stock_ledger,High,Delivered sales qty exceeds ledger OUT,1,"Network gap ≈ +110,107 units (sales − ledger OUT)",Align sales delivery posting with stock OUT movements
+PK-branches,branches,OK,Primary key uniqueness/nulls (branch_id),0,"duplicates=0, nulls=0, rows=6",OK
+PK-customers,customers,OK,Primary key uniqueness/nulls (customer_id),0,"duplicates=0, nulls=0, rows=500",OK
+PK-inventory_master,inventory_master,OK,"Composite key (product_id, branch_id) uniqueness",0,"duplicate pairs=0, rows=180",OK
+FK-inv_master-product,inventory_master,OK,product_id not in products,0,orphan rows=0 of 180,OK
+FK-inv_master-branch,inventory_master,OK,branch_id not in branches,0,orphan rows=0 of 180,OK
+COV-inv-matrix,inventory_master,OK,Product×branch coverage,0,"expected=180, actual=180, missing=0",OK
+NEG-inventory_master-current_stock,inventory_master,OK,Negative values in current_stock,0,negative rows=0,OK
+PK-products,products,OK,Primary key uniqueness/nulls (product_id),0,"duplicates=0, nulls=0, rows=30",OK
+PRICE-below-cost,products,OK,unit_price < unit_cost,0,products=0,OK
+PRICE-zero,products,OK,Non-positive cost or price,0,products=0,OK
+FK-po_header-supplier,purchase_orders_header,OK,supplier_id not in suppliers,0,orphan headers=0 of 24000,OK
+FK-po_lines-product,purchase_orders_lines,OK,product_id not in products,0,orphan lines=0 of 155495,OK
+FK-po_lines-header,purchase_orders_lines,OK,po_id not in purchase_orders_header,0,orphan lines=0 of 155495,OK
+NEG-purchase_orders_lines-quantity,purchase_orders_lines,OK,Negative values in quantity,0,negative rows=0,OK
+FK-so_header-customer,sales_orders_header,OK,customer_id not in customers,0,orphan headers=0 of 20000,OK
+FK-so_header-branch,sales_orders_header,OK,branch_id not in branches,0,orphan headers=0 of 20000,OK
+DATE-so-null,sales_orders_header,OK,Null order_date,0,null dates=0,OK
+STAT-so-null,sales_orders_header,OK,Null order_status,0,"statuses={'Delivered': 18033, 'Cancelled': 1967}",OK
+FK-so_lines-product,sales_orders_lines,OK,product_id not in products,0,orphan lines=0 of 130402,OK
+FK-so_lines-header,sales_orders_lines,OK,so_id not in sales_orders_header,0,orphan lines=0 of 130402,OK
+NEG-sales_orders_lines-quantity,sales_orders_lines,OK,Negative values in quantity,0,negative rows=0,OK
+FK-ledger-product,stock_ledger,OK,product_id not in products,0,orphan rows=0 of 237230,OK
+FK-ledger-branch,stock_ledger,OK,branch_id not in branches,0,orphan rows=0 of 237230,OK
+NEG-stock_ledger-quantity,stock_ledger,OK,Negative values in quantity,0,negative rows=0,OK
+PK-ledger-movement_id,stock_ledger,OK,movement_id uniqueness,0,duplicates=0,OK
+PK-suppliers,suppliers,OK,Primary key uniqueness/nulls (supplier_id),0,"duplicates=0, nulls=0, rows=8",OK

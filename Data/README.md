@@ -1,6 +1,6 @@
 # Data directory guide
 
-Organized on 6 October 2026; extended with Sections C and D on 16 October 2026, Section E on 29 October 2026, and Section F on 4 November 2026. Navigate by processing stage, then section, then task. Each task folder contains the CSVs associated with that task; shared inputs stay in Section A.
+Organized on 6 October 2026; extended with Sections C and D on 16 October 2026, Section E on 29 October 2026, Section F on 4 November 2026, and Section G on 13 November 2026. Navigate by processing stage, then section, then task. Each task folder contains the CSVs associated with that task; shared inputs stay in Section A.
 
 ```text
 Data/
@@ -54,6 +54,11 @@ Data/
 |           |-- F3/              Stockout risk ranking (1 CSV)
 |           |-- F4/              Reorder point and safety stock (1 shared F4/F5 CSV)
 |           `-- F6/              Scenario forecasts and sell-down (7 CSVs)
+|       `-- section_g/
+|           |-- G1/              Movement anomalies and summaries (3 CSVs)
+|           |-- G2/              Shrinkage reconciliation (1 CSV)
+|           |-- G3/              Operational risk register (1 CSV)
+|           `-- G4/              Data-integrity checks (1 CSV)
 |-- interim/
 |   `-- section_a/
 |       `-- A5/
@@ -61,7 +66,7 @@ Data/
 `-- external/                   External data, when needed
 ```
 
-`cleaned` holds prepared source tables. `integrated` holds joined tables, features, and derived analytical outputs. Sections B-F supply analytical results, so their CSVs belong under the matching `integrated/section_b/` through `section_f/` folders. Add a `cleaned/` folder for a later section only if distinct cleaned inputs are actually produced for that section; reuse existing A2 tables otherwise.
+`cleaned` holds prepared source tables. `integrated` holds joined tables, features, and derived analytical outputs. Sections B-G supply analytical results, so their CSVs belong under the matching `integrated/section_b/` through `section_g/` folders. Add a `cleaned/` folder for a later section only if distinct cleaned inputs are actually produced for that section; reuse existing A2 tables otherwise.
 
 Task prefixes are retained in filenames so exported files remain identifiable. Files that support multiple tasks have one canonical location; for example, the A3 sales table also contains A4 features. A1 reports and A6 documentation are linked from the Section A index rather than represented by empty data folders.
 
@@ -76,12 +81,14 @@ Task prefixes are retained in filenames so exported files remain identifiable. F
 | Supplier outputs | [Section D / D1-D6](processed/integrated/section_d/) |
 | Customer analytics outputs | [Section E / E1-E9](processed/integrated/section_e/) |
 | Forecasting and predictive outputs | [Section F / F1-F6](processed/integrated/section_f/) |
+| Risk, anomaly, and control outputs | [Section G / G1-G4](processed/integrated/section_g/) |
 | Section A reports, scripts, and CSV index | [Section A index](../docs/section_a.md) |
 | Section B reports and CSV index | [Section B index](../docs/section_b.md) |
 | Section C reports and CSV index | [Section C index](../docs/section_c.md) |
 | Section D reports and CSV index | [Section D index](../docs/section_d.md) |
 | Section E reports and CSV index | [Section E index](../docs/section_e.md) |
 | Section F reports and CSV index | [Section F index](../docs/section_f.md) |
+| Section G reports and CSV index | [Section G index](../docs/section_g.md) |
 | Original Section A filenames mapped to current paths | [Filename mapping](../docs/section_a_filenames.md) |
 
 Both Python scripts use the new task folders. Update saved external data connections or teammates' local scripts to these paths. The original workbooks may retain old path descriptions; their contents have been preserved.
